@@ -1,0 +1,2 @@
+2025-07-25 16:42:57.706 [error] [File Watcher] Unexpected error: inotify_add_watch on '/home/ramijaebr/.config/Code/logs/20250720T065610/window1' failed: No such file or directory (EUNKNOWN) (path: /home/ramijaebr)
+2025-07-25 16:42:57.706 [error] [File Watcher (universal)] inotify_add_watch on '/home/ramijaebr/.config/Code/logs/20250720T065610/window1' failed: No such file or directory

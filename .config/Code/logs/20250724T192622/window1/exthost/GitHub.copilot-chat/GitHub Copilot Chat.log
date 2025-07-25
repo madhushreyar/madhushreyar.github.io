@@ -1,0 +1,39 @@
+2025-07-24 19:27:40.858 [info] Using the Electron fetcher.
+2025-07-24 19:27:40.858 [info] Initializing Git extension service.
+2025-07-24 19:27:40.858 [info] Successfully activated the vscode.git extension.
+2025-07-24 19:27:40.858 [info] Enablement state of the vscode.git extension: true.
+2025-07-24 19:27:40.859 [info] Successfully registered Git commit message provider.
+2025-07-24 19:27:46.154 [info] Logged in as ramijaebr
+2025-07-24 19:27:48.002 [info] Got Copilot token for ramijaebr
+2025-07-24 19:27:49.579 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-07-24 19:27:49.579 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-07-24 19:27:49.655 [info] Registering default platform agent...
+2025-07-24 19:28:03.941 [info] Fetched model metadata in 15843ms 0340dea0-1f8c-49e4-bb7c-af04d6eeb3de
+2025-07-24 19:28:03.973 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-07-24 19:28:04.110 [info] activationBlocker from 'languageModelAccess' took for 27559ms
+2025-07-24 19:28:41.869 [info] message 0 returned. finish reason: [stop]
+2025-07-24 19:28:41.870 [info] request done: requestId: [11c836a0-eaa8-47e2-806b-8f0d99b8faa4] model deployment ID: []
+2025-07-24 19:31:01.177 [info] message 0 returned. finish reason: [stop]
+2025-07-24 19:31:01.177 [info] request done: requestId: [9f78ea36-95ee-44d8-8b00-288903b6cd75] model deployment ID: []
+2025-07-24 19:33:07.273 [info] message 0 returned. finish reason: [stop]
+2025-07-24 19:33:07.273 [info] request done: requestId: [f5e9eaae-4fc9-404b-9ae5-e8dc1dbbadd9] model deployment ID: []
+2025-07-24 19:43:11.390 [info] Fetched model metadata in 1236ms da7d73d9-7007-4f92-9159-44612a9d0314
+2025-07-24 19:47:43.067 [info] message 0 returned. finish reason: [stop]
+2025-07-24 19:47:43.067 [info] request done: requestId: [541ae645-1e3e-492b-80a9-1526a57e8099] model deployment ID: []
+2025-07-24 19:49:12.209 [info] Logged in as ramijaebr
+2025-07-24 19:49:14.588 [info] Got Copilot token for ramijaebr
+2025-07-24 19:49:14.982 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-07-24 19:49:15.589 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-07-24 20:00:35.415 [info] Fetched model metadata in 1462ms a3eebb68-71f1-44ce-aca9-ca90cefb22bb
+2025-07-24 20:00:42.148 [info] message 0 returned. finish reason: [stop]
+2025-07-24 20:00:42.149 [info] request done: requestId: [5d752e2e-4adc-44ca-b2b9-5c636fc74a3a] model deployment ID: []
+2025-07-24 20:11:24.049 [info] Logged in as ramijaebr
+2025-07-24 20:11:26.565 [info] Got Copilot token for ramijaebr
+2025-07-24 20:11:27.163 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-07-24 20:11:27.927 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-07-24 20:11:27.936 [info] Fetched model metadata in 4216ms 8d3b2a09-fc9b-43c2-960c-34d513a7db5b
+2025-07-24 20:11:35.231 [info] message 0 returned. finish reason: [stop]
+2025-07-24 20:11:35.239 [info] request done: requestId: [c3039cd2-95f1-4a9f-97c3-acb58aaa5287] model deployment ID: []
+2025-07-24 20:21:44.390 [info] Fetched model metadata in 1804ms 144ca9c9-5090-4248-be09-ab4e6fdf4a67
+2025-07-24 20:21:50.871 [info] message 0 returned. finish reason: [stop]
+2025-07-24 20:21:50.872 [info] request done: requestId: [277785b6-3d23-43c8-99a0-bfea588b541d] model deployment ID: []

@@ -1,0 +1,46 @@
+2025-07-25 15:20:54.898 [warning] Creation of workbench contribution 'workbench.contrib.preferencesActions' took 25ms.
+2025-07-25 15:20:55.093 [warning] Creation of workbench contribution 'workbench.contrib.updateExperimentalSettingsDefaults' took 27ms.
+2025-07-25 15:20:57.949 [info] Started local extension host with pid 448.
+2025-07-25 15:21:00.422 [info] ComputeTargetPlatform: linux-x64
+2025-07-25 15:21:32.386 [info] Extension host (LocalProcess pid: 448) is unresponsive.
+2025-07-25 15:21:34.074 [info] Extension host (LocalProcess pid: 448) is responsive.
+2025-07-25 15:21:41.111 [info] Extension host (LocalProcess pid: 448) is unresponsive.
+2025-07-25 15:21:42.809 [error] Error: Aborted onWillSaveTextDocument-event after 1750ms
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1300:10062
+2025-07-25 15:21:46.040 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-07-25 15:21:50.871 [info] Extension host (LocalProcess pid: 448) is responsive.
+2025-07-25 15:21:53.524 [error] Error: Aborted onWillSaveTextDocument-event after 1750ms
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1300:10062
+2025-07-25 15:22:01.321 [info] [perf] Render performance baseline is 515ms
+2025-07-25 15:22:06.541 [error] An unknown error occurred. Please consult the log for more details.
+2025-07-25 15:22:18.638 [info] Extension host (LocalProcess pid: 448) is unresponsive.
+2025-07-25 15:22:21.391 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-07-25 15:22:24.437 [info] Extension host (LocalProcess pid: 448) is responsive.
+2025-07-25 15:22:24.442 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-07-25 15:22:27.647 [warning] UNRESPONSIVE extension host: 'github.copilot' took 93.13483621783504% of 2872.88ms, saved PROFILE here: 'file:///tmp/exthost-23dc12.cpuprofile'
+2025-07-25 15:22:30.722 [info] Extension host (LocalProcess pid: 448) is unresponsive.
+2025-07-25 15:22:30.970 [info] Extension host (LocalProcess pid: 448) is responsive.
+2025-07-25 15:22:30.979 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-07-25 15:22:33.122 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-07-25 15:34:44.642 [error] [Extension Host] Error: Unexpected SIGPIPE
+    at process.<anonymous> (file:///usr/share/code/resources/app/out/bootstrap-fork.js:3:11860)
+    at process.emit (node:events:524:28)
+2025-07-25 16:27:57.138 [info] Extension host (LocalProcess pid: 448) is unresponsive.
+2025-07-25 16:27:57.216 [info] Extension host (LocalProcess pid: 448) is responsive.
+2025-07-25 16:27:57.305 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-07-25 16:27:59.770 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-07-25 16:28:01.507 [info] Extension host (LocalProcess pid: 448) is unresponsive.
+2025-07-25 16:28:02.981 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-07-25 16:28:03.609 [info] Extension host (LocalProcess pid: 448) is responsive.
+2025-07-25 16:29:58.656 [error] Cannot read properties of undefined (reading 'map'): TypeError: Cannot read properties of undefined (reading 'map')
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:456:40572
+    at ev._computeFn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:16409)
+    at ev.w (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:25879)
+    at ev.get (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:25611)
+    at ev.readObservable (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:27315)
+    at ev.read (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:16025)
+    at c (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:32:10350)
+    at ev._computeFn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:32:10505)
+    at ev.w (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:25879)
+    at ev.get (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:25611)
+2025-07-25 16:30:57.844 [error] An unknown error occurred. Please consult the log for more details.

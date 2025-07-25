@@ -1,0 +1,74 @@
+2025-07-25 16:43:50.192 [info] [main] Log level: Info
+2025-07-25 16:43:50.192 [info] [main] Validating found git in: "git"
+2025-07-25 16:43:50.192 [info] [main] Using git "2.39.5" from "git"
+2025-07-25 16:43:50.192 [info] [Model][doInitialScan] Initial repository scan started
+2025-07-25 16:43:50.192 [info] > git rev-parse --show-toplevel [1684ms]
+2025-07-25 16:43:50.192 [info] > git rev-parse --git-dir --git-common-dir [486ms]
+2025-07-25 16:43:50.192 [info] [Model][openRepository] Opened repository (path): /home/ramijaebr
+2025-07-25 16:43:50.192 [info] [Model][openRepository] Opened repository (real path): /home/ramijaebr
+2025-07-25 16:43:50.533 [info] > git rev-parse --show-toplevel [172ms]
+2025-07-25 16:43:50.540 [info] > git config --get commit.template [217ms]
+2025-07-25 16:43:50.661 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [37ms]
+2025-07-25 16:43:51.800 [info] > git status -z -uall [1014ms]
+2025-07-25 16:43:51.802 [info] > git check-ignore -v -z --stdin [603ms]
+2025-07-25 16:43:51.886 [info] > git rev-parse --show-toplevel [820ms]
+2025-07-25 16:43:51.945 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1013ms]
+2025-07-25 16:43:53.385 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1052ms]
+2025-07-25 16:43:53.892 [info] > git config --get --local branch.master.vscode-merge-base [407ms]
+2025-07-25 16:43:53.892 [warning] [Git][config] git config failed: Failed to execute git
+2025-07-25 16:43:54.015 [info] > git config --get commit.template [699ms]
+2025-07-25 16:43:54.015 [info] > git rev-parse --show-toplevel [743ms]
+2025-07-25 16:43:54.240 [info] > git reflog master --grep-reflog=branch: Created from *. [237ms]
+2025-07-25 16:43:54.687 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [229ms]
+2025-07-25 16:43:54.688 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2025-07-25 16:43:54.689 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2025-07-25 16:43:54.702 [info] > git rev-parse --show-toplevel [488ms]
+2025-07-25 16:43:55.002 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [379ms]
+2025-07-25 16:43:55.139 [info] > git status -z -uall [100ms]
+2025-07-25 16:43:55.140 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [34ms]
+2025-07-25 16:43:55.240 [info] > git rev-parse --show-toplevel [255ms]
+2025-07-25 16:43:56.637 [info] > git rev-parse --show-toplevel [1199ms]
+2025-07-25 16:43:57.185 [info] > git rev-parse --show-toplevel [119ms]
+2025-07-25 16:43:57.305 [info] > git rev-parse --show-toplevel [36ms]
+2025-07-25 16:43:57.389 [info] > git rev-parse --git-dir --git-common-dir [33ms]
+2025-07-25 16:43:57.464 [info] [Model][openRepository] Opened repository (path): /home/ramijaebr/madhushreyar.github.io
+2025-07-25 16:43:57.464 [info] [Model][openRepository] Opened repository (real path): /home/ramijaebr/madhushreyar.github.io
+2025-07-25 16:43:57.787 [info] > git rev-parse --show-toplevel [48ms]
+2025-07-25 16:43:57.788 [info] > git config --get commit.template [104ms]
+2025-07-25 16:43:57.879 [info] > git rev-parse --show-toplevel [39ms]
+2025-07-25 16:43:57.883 [info] [Model][doInitialScan] Initial repository scan completed - repositories (2), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-07-25 16:43:57.968 [info] > git show --textconv :my_portfolio/styles.css [43ms]
+2025-07-25 16:43:58.006 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [133ms]
+2025-07-25 16:43:58.046 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/ramijaebr/madhushreyar.github.io/.git/refs/remotes/origin/main'
+2025-07-25 16:43:58.049 [info] > git hash-object -t tree /dev/null [44ms]
+2025-07-25 16:43:58.050 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/ramijaebr/my_portfolio/styles.css.git?%7B%22path%22%3A%22%2Fhome%2Framijaebr%2Fmy_portfolio%2Fstyles.css%22%2C%22ref%22%3A%22%22%7D
+2025-07-25 16:43:58.052 [info] > git ls-files --stage -- my_portfolio/styles.css [90ms]
+2025-07-25 16:43:58.054 [warning] [GitFileSystemProvider][stat] File not found - git:/home/ramijaebr/my_portfolio/styles.css.git?%7B%22path%22%3A%22%2Fhome%2Framijaebr%2Fmy_portfolio%2Fstyles.css%22%2C%22ref%22%3A%22%22%7D
+2025-07-25 16:43:58.068 [info] > git rev-parse refs/remotes/origin/main [23ms]
+2025-07-25 16:43:58.145 [info] > git status -z -uall [43ms]
+2025-07-25 16:43:58.159 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [19ms]
+2025-07-25 16:43:58.444 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [216ms]
+2025-07-25 16:43:58.568 [info] > git check-ignore -v -z --stdin [46ms]
+2025-07-25 16:43:58.571 [info] > git check-ignore -v -z --stdin [17ms]
+2025-07-25 16:43:58.574 [info] > git config --get --local branch.main.vscode-merge-base [95ms]
+2025-07-25 16:43:58.617 [info] > git config --get commit.template [179ms]
+2025-07-25 16:43:58.618 [info] > git config --get commit.template [213ms]
+2025-07-25 16:43:58.637 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [21ms]
+2025-07-25 16:43:58.850 [info] > git merge-base refs/heads/main refs/remotes/origin/main [175ms]
+2025-07-25 16:43:59.008 [info] > git diff --name-status -z --diff-filter=ADMR 5846a4cec008b5a929daca2bc29e80b749a5c7e6...refs/remotes/origin/main [53ms]
+2025-07-25 16:43:59.018 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [181ms]
+2025-07-25 16:43:59.144 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [415ms]
+2025-07-25 16:43:59.289 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/ramijaebr/madhushreyar.github.io/.git/refs/remotes/origin/main'
+2025-07-25 16:43:59.322 [info] > git status -z -uall [262ms]
+2025-07-25 16:43:59.324 [info] > git rev-parse refs/remotes/origin/main [34ms]
+2025-07-25 16:43:59.476 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [333ms]
+2025-07-25 16:44:00.302 [info] > git status -z -uall [916ms]
+2025-07-25 16:44:00.303 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [851ms]
+2025-07-25 16:44:00.454 [info] > git config --get commit.template [30ms]
+2025-07-25 16:44:00.527 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [25ms]
+2025-07-25 16:44:00.565 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/ramijaebr/madhushreyar.github.io/.git/refs/remotes/origin/main'
+2025-07-25 16:44:00.571 [info] > git rev-parse refs/remotes/origin/main [6ms]
+2025-07-25 16:44:00.734 [info] > git status -z -uall [124ms]
+2025-07-25 16:44:00.735 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [81ms]
+2025-07-25 16:44:11.846 [info] > git blame --root --incremental 5bc0bba7f2567eca0451cf4ad6e598f81cfd74f1 -- my_portfolio/styles.css [591ms]
+2025-07-25 16:44:11.846 [info] fatal: no such path my_portfolio/styles.css in 5bc0bba7f2567eca0451cf4ad6e598f81cfd74f1

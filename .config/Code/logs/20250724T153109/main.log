@@ -1,0 +1,35 @@
+2025-07-24 15:31:12.017 [info] update#setState idle
+2025-07-24 15:31:41.560 [info] update#setState checking for updates
+2025-07-24 15:31:41.704 [info] update#setState available for download
+2025-07-24 15:31:49.610 [warning] No ptyHost heartbeat after 6 seconds
+2025-07-24 15:33:10.491 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-24 15:43:43.512 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-24 15:46:44.506 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-24 15:47:53.181 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-24 16:05:29.803 [warning] No ptyHost heartbeat after 6 seconds
+2025-07-24 16:14:05.702 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-24 16:16:59.626 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-24 16:17:33.383 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-24 16:17:38.480 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-24 16:21:05.066 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-24 16:21:51.367 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-24 16:22:12.533 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-24 16:22:58.200 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-24 16:26:09.030 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-24 16:33:31.632 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-24 16:34:38.996 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-24 16:35:05.867 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-24 16:35:36.664 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-24 16:36:23.277 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-24 16:36:52.415 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-24 16:40:54.642 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-24 16:41:39.248 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-24 16:41:49.447 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-24 16:45:08.925 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-24 16:59:45.190 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-24 17:00:08.578 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-24 17:00:38.382 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-24 17:01:26.449 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-24 17:06:38.983 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-24 17:08:20.739 [info] Extension host with pid 446 exited with code: 0, signal: unknown.
+2025-07-24 17:08:22.366 [error] Extension host with pid 446 still exists, forcefully killing it...

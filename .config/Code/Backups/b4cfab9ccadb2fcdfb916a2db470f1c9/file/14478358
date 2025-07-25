@@ -1,0 +1,8 @@
+file:///home/ramijaebr/my_portfolio/script.js {"mtime":1752924223681,"ctime":1752924223681,"size":0,"etag":"3ehs0gkrg0","orphaned":false,"typeId":""}
+var typed = new Typed('.text', {
+  strings: ['Web Developer', 'Designer', 'Content Creator'],
+  typeSpeed: 100,
+  backSpeed: 100,
+  backDelay: 1000,
+  loop: true
+});

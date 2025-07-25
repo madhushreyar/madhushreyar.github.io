@@ -1,0 +1,5 @@
+2025-07-24 19:26:24.136 [info] update#setState idle
+2025-07-24 19:26:53.472 [info] update#setState checking for updates
+2025-07-24 19:26:54.266 [info] update#setState available for download
+2025-07-24 19:27:07.550 [warning] No ptyHost heartbeat after 6 seconds
+2025-07-24 20:37:49.419 [info] Extension host with pid 6961 exited with code: 0, signal: unknown.

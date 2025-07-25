@@ -1,0 +1,261 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #0e0e0e;
+    color: #f1f1f1;
+    line-height: 1.6;
+}
+
+/* Navbar */
+.navbar {
+    background-color: #1a1a1a;
+    padding: 1rem 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+.logo {
+    font-size: 1.8rem;
+    color: #00ffe7;
+    font-weight: 600;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 1.5rem;
+}
+
+.nav-links li a {
+    text-decoration: none;
+    color: #f1f1f1;
+    transition: color 0.3s ease;
+}
+
+.nav-links li a:hover {
+    color: #00ffe7;
+}
+
+/* Hero Section */
+.hero {
+    background: linear-gradient(to right, #0a0a0a, #1a1a1a);
+    padding: 5rem 2rem;
+    text-align: center;
+}
+
+.hero h2 {
+    font-size: 2.5rem;
+    color: #00ffe7;
+    margin-bottom: 1rem;
+}
+
+.hero p {
+    font-size: 1.2rem;
+    color: #ccc;
+}
+
+/* Sections */
+section {
+    padding: 4rem 2rem;
+    max-width: 1000px;
+    margin: auto;
+}
+
+h2 {
+    color: #00ffe7;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.about p {
+    text-align: center;
+    font-size: 1.1rem;
+}
+
+/* Blog Cards */
+.blog-list {
+    display: flex;
+    gap: 2rem;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.blog-card {
+    background-color: #1f1f1f;
+    padding: 1.5rem;
+    border-radius: 10px;
+    width: 300px;
+    box-shadow: 0 0 15px rgba(0, 255, 231, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.blog-card:hover {
+    transform: translateY(-5px);
+}
+
+.blog-card h3 {
+    color: #00ffe7;
+    margin-bottom: 0.5rem;
+}
+
+/* Video Embed */
+.video-embed {
+    display: flex;
+    justify-content: center;
+}
+
+/* Downloads */
+.downloads ul {
+    list-style: none;
+    text-align: center;
+}
+
+.downloads li a {
+    color: #00ffe7;
+    text-decoration: none;
+    font-size: 1.1rem;
+    display: inline-block;
+    margin: 0.75rem 0;
+    transition: color 0.3s ease;
+}
+
+.downloads li a:hover {
+    color: #ffffff;
+}
+
+/* Contact */
+.contact p {
+    text-align: center;
+    font-size: 1.1rem;
+}
+
+/* Footer */
+footer {
+    background-color: #1a1a1a;
+    text-align: center;
+    padding: 1rem;
+    font-size: 0.9rem;
+    color: #888;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .nav-links {
+        flex-direction: column;
+        gap: 1rem;
+    }
+
+    .blog-list {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .hero h2 {
+        font-size: 2rem;
+    }
+
+    .hero p {
+        font-size: 1rem;
+    }
+}
+
+.menu-icon {
+    display: none;
+    font-size: 2rem;
+    color: #00ffe7;
+    cursor: pointer;
+}
+
+@media (max-width: 768px) {
+    .menu-icon {
+        display: block;
+    }
+
+    .nav-links {
+        display: none;
+        flex-direction: column;
+        gap: 1rem;
+        background-color: #1a1a1a;
+        padding: 1rem;
+        position: absolute;
+        top: 60px;
+        right: 20px;
+        border-radius: 8px;
+    }
+
+    .nav-links.active {
+        display: flex;
+    }
+}
+
+/* Transition for smooth open/close */
+.nav-links {
+    transition: all 0.3s ease-in-out;
+    opacity: 0;
+    pointer-events: none;
+    transform: translateY(-10px);
+}
+
+.nav-links.active {
+    display: flex;
+    opacity: 1;
+    pointer-events: auto;
+    transform: translateY(0);
+}
+
+/* Hamburger Animation (X icon) */
+.menu-icon.open {
+    transform: rotate(90deg);
+    transition: transform 0.3s ease;
+}
+
+.contact {
+    background-color: #111;
+    padding: 60px 20px;
+    color: #fff;
+    text-align: center;
+}
+
+.contact-form {
+    max-width: 500px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.contact-form input,
+.contact-form textarea {
+    padding: 12px;
+    border: none;
+    border-radius: 6px;
+    font-size: 16px;
+    background-color: #222;
+    color: #fff;
+    resize: none;
+}
+
+.contact-form button {
+    padding: 12px;
+    font-size: 16px;
+    background-color: #00ffe7;
+    color: #000;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+.contact-form button:hover {
+    background-color: #00d2bd;
+}

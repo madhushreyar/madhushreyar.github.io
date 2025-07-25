@@ -1,0 +1,66 @@
+2025-07-21 08:49:36.687 [warning] Creation of workbench contribution 'workbench.contrib.preferencesActions' took 24ms.
+2025-07-21 08:49:36.821 [warning] Creation of workbench contribution 'workbench.contrib.chatSetup' took 23ms.
+2025-07-21 08:49:39.116 [info] Started local extension host with pid 431.
+2025-07-21 08:49:39.412 [info] ComputeTargetPlatform: linux-x64
+2025-07-21 08:50:09.397 [info] Extension host (LocalProcess pid: 431) is unresponsive.
+2025-07-21 08:50:19.479 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-07-21 08:50:26.147 [warning] Creation of workbench contribution 'workbench.contrib.configurationMigration' took 142ms.
+2025-07-21 08:50:26.445 [info] Extension host (LocalProcess pid: 431) is responsive.
+2025-07-21 08:50:30.786 [info] [perf] Render performance baseline is 423ms
+2025-07-21 08:50:38.064 [info] Extension host (LocalProcess pid: 431) is unresponsive.
+2025-07-21 08:50:38.436 [info] Extension host (LocalProcess pid: 431) is responsive.
+2025-07-21 08:50:39.318 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-07-21 08:50:42.168 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-07-21 08:50:42.596 [warning] UNRESPONSIVE extension host: 'github.copilot-chat' took 99.99999999999999% of 26.204ms, saved PROFILE here: 'file:///tmp/exthost-ce78b6.cpuprofile'
+2025-07-21 08:50:51.503 [info] Extension host (LocalProcess pid: 431) is unresponsive.
+2025-07-21 08:50:52.756 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-07-21 08:50:54.703 [info] Extension host (LocalProcess pid: 431) is responsive.
+2025-07-21 08:50:54.713 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-07-21 08:50:56.350 [warning] UNRESPONSIVE extension host: 'github.copilot' took 96.91495029760546% of 1909.932ms, saved PROFILE here: 'file:///tmp/exthost-9c6ab2.cpuprofile'
+2025-07-21 08:59:19.511 [error] [Extension Host] Error: Unexpected SIGPIPE
+    at process.<anonymous> (file:///usr/share/code/resources/app/out/bootstrap-fork.js:3:11860)
+    at process.emit (node:events:524:28)
+2025-07-21 09:21:52.310 [error] Cannot read properties of undefined (reading 'map'): TypeError: Cannot read properties of undefined (reading 'map')
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:456:40572
+    at ev._computeFn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:16409)
+    at ev.w (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:25879)
+    at ev.get (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:25611)
+    at ev.readObservable (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:27315)
+    at ev.read (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:16025)
+    at c (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:32:10350)
+    at ev._computeFn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:32:10505)
+    at ev.w (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:25879)
+    at ev.get (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:25611)
+2025-07-21 09:21:52.704 [error] Make sure the ref is set before accessing the element. Maybe wrong initialization order?: Error: Make sure the ref is set before accessing the element. Maybe wrong initialization order?
+    at Function.get (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:32:9397)
+    at Wne.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:456:42214)
+    at Ng.B (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2392)
+    at Ng.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2462)
+    at Ng.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2680)
+    at Ng.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:276:20080)
+    at s.onMouseMove (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:276:17933)
+    at JSi.emitMouseMove (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:73:17712)
+    at V5i.emitMouseMove (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:73:7788)
+    at O5i.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:70:46369)
+2025-07-21 09:21:54.149 [error] Make sure the ref is set before accessing the element. Maybe wrong initialization order?: Error: Make sure the ref is set before accessing the element. Maybe wrong initialization order?
+    at Function.get (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:32:9397)
+    at Wne.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:456:42214)
+    at Ng.B (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2392)
+    at Ng.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2462)
+    at Ng.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2680)
+    at Ng.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:276:20080)
+    at s.onMouseMove (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:276:17933)
+    at JSi.emitMouseMove (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:73:17712)
+    at V5i.emitMouseMove (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:73:7788)
+    at O5i.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:70:46369)
+2025-07-21 09:28:54.746 [error] An unknown error occurred. Please consult the log for more details.
+2025-07-21 09:30:27.519 [error] An unknown error occurred. Please consult the log for more details.
+2025-07-21 09:48:16.667 [error] An unknown error occurred. Please consult the log for more details.
+2025-07-21 09:55:10.489 [error] An unknown error occurred. Please consult the log for more details.
+2025-07-21 09:56:06.338 [error] An unknown error occurred. Please consult the log for more details.
+2025-07-21 09:57:18.006 [error] An unknown error occurred. Please consult the log for more details.
+2025-07-21 09:57:23.763 [error] An unknown error occurred. Please consult the log for more details.
+2025-07-21 09:57:33.982 [error] An unknown error occurred. Please consult the log for more details.
+2025-07-21 09:58:17.977 [error] An unknown error occurred. Please consult the log for more details.
+2025-07-21 09:58:25.968 [error] An unknown error occurred. Please consult the log for more details.
+2025-07-21 10:02:13.517 [error] An unknown error occurred. Please consult the log for more details.

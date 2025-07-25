@@ -1,0 +1,101 @@
+2025-07-21 16:04:06.723 [warning] Creation of workbench contribution 'workbench.contrib.preferencesActions' took 25ms.
+2025-07-21 16:04:06.860 [warning] Creation of workbench contribution 'workbench.contrib.chatSetup' took 21ms.
+2025-07-21 16:04:09.165 [info] Started local extension host with pid 6943.
+2025-07-21 16:04:09.335 [info] ComputeTargetPlatform: linux-x64
+2025-07-21 16:04:31.123 [info] Extension host (LocalProcess pid: 6943) is unresponsive.
+2025-07-21 16:04:31.574 [info] Extension host (LocalProcess pid: 6943) is responsive.
+2025-07-21 16:04:40.727 [info] Extension host (LocalProcess pid: 6943) is unresponsive.
+2025-07-21 16:04:42.646 [warning] Creation of workbench contribution 'chat.simpleBrowser.overlay' took 194ms.
+2025-07-21 16:04:52.120 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-07-21 16:04:58.332 [warning] Creation of workbench contribution 'workbench.contrib.configurationMigration' took 131ms.
+2025-07-21 16:04:58.627 [warning] Creation of workbench contribution 'workbench.contrib.dynamicWindowConfiguration' took 147ms.
+2025-07-21 16:04:59.566 [info] Extension host (LocalProcess pid: 6943) is responsive.
+2025-07-21 16:05:02.926 [info] [perf] Render performance baseline is 501ms
+2025-07-21 16:05:19.856 [info] Extension host (LocalProcess pid: 6943) is unresponsive.
+2025-07-21 16:05:22.572 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-07-21 16:05:22.644 [info] Extension host (LocalProcess pid: 6943) is responsive.
+2025-07-21 16:05:22.655 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-07-21 16:05:23.451 [warning] UNRESPONSIVE extension host: 'github.copilot' took 62.1336759322203% of 99.627ms, saved PROFILE here: 'file:///tmp/exthost-361685.cpuprofile'
+2025-07-21 16:08:09.095 [error] Cannot read properties of undefined (reading 'map'): TypeError: Cannot read properties of undefined (reading 'map')
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:456:40572
+    at ev._computeFn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:16409)
+    at ev.w (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:25879)
+    at ev.get (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:25611)
+    at ev.readObservable (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:27315)
+    at ev.read (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:16025)
+    at c (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:32:10350)
+    at ev._computeFn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:32:10505)
+    at ev.w (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:25879)
+    at ev.get (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:25611)
+2025-07-21 16:08:11.122 [error] An unknown error occurred. Please consult the log for more details.
+2025-07-21 16:08:26.205 [error] An unknown error occurred. Please consult the log for more details.
+2025-07-21 16:09:12.343 [error] An unknown error occurred. Please consult the log for more details.
+2025-07-21 16:09:50.987 [error] [Extension Host] [AsyncCompletionManager] [a657cb22-85c5-4f28-9b8f-62eea78aac67] Request errored with AbortError: The operation was aborted.
+    at EventTarget.abortHandler (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:106:17)
+    at EventTarget.[nodejs.internal.kHybridDispatch] (node:internal/event_target:831:20)
+    at EventTarget.dispatchEvent (node:internal/event_target:766:26)
+    at abortSignal (node:internal/abort_controller:370:10)
+    at AbortController.abort (node:internal/abort_controller:392:5)
+    at /home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/lib/src/networking.ts:237:19
+    at LH.invoke (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/node_modules/vscode-jsonrpc/lib/common/events.js:55:39)
+    at e.fire (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/node_modules/vscode-jsonrpc/lib/common/events.js:117:36)
+    at V8.cancel (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/node_modules/vscode-jsonrpc/lib/common/cancellation.js:41:31)
+    at MH.cancel (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/node_modules/vscode-jsonrpc/lib/common/cancellation.js:82:25)
+    at tc.cancelRequest (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/lib/src/ghostText/asyncCompletions.ts:257:41)
+    at tc.getFirstMatchingRequest (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/lib/src/ghostText/asyncCompletions.ts:234:22)
+    at /home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/lib/src/ghostText/ghostText.ts:986:22 {
+  type: 'aborted',
+  _name: 'AbortError'
+}
+2025-07-21 16:10:52.279 [error] [Extension Host] [AsyncCompletionManager] [05b60661-6a00-4246-900c-e4e173c2d6b5] Request errored with AbortError: The operation was aborted.
+    at EventTarget.abortHandler (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:106:17)
+    at EventTarget.[nodejs.internal.kHybridDispatch] (node:internal/event_target:831:20)
+    at EventTarget.dispatchEvent (node:internal/event_target:766:26)
+    at abortSignal (node:internal/abort_controller:370:10)
+    at AbortController.abort (node:internal/abort_controller:392:5)
+    at /home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/lib/src/networking.ts:237:19
+    at LH.invoke (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/node_modules/vscode-jsonrpc/lib/common/events.js:55:39)
+    at e.fire (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/node_modules/vscode-jsonrpc/lib/common/events.js:117:36)
+    at V8.cancel (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/node_modules/vscode-jsonrpc/lib/common/cancellation.js:41:31)
+    at MH.cancel (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/node_modules/vscode-jsonrpc/lib/common/cancellation.js:82:25)
+    at tc.cancelRequest (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/lib/src/ghostText/asyncCompletions.ts:257:41)
+    at tc.getFirstMatchingRequest (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/lib/src/ghostText/asyncCompletions.ts:234:22)
+    at /home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/lib/src/ghostText/ghostText.ts:986:22 {
+  type: 'aborted',
+  _name: 'AbortError'
+}
+2025-07-21 16:10:52.301 [error] [Extension Host] [AsyncCompletionManager] [b3823a7a-04b5-4602-a905-07574e5e1695] Request errored with AbortError: The operation was aborted.
+    at EventTarget.abortHandler (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:106:17)
+    at EventTarget.[nodejs.internal.kHybridDispatch] (node:internal/event_target:831:20)
+    at EventTarget.dispatchEvent (node:internal/event_target:766:26)
+    at abortSignal (node:internal/abort_controller:370:10)
+    at AbortController.abort (node:internal/abort_controller:392:5)
+    at /home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/lib/src/networking.ts:237:19
+    at LH.invoke (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/node_modules/vscode-jsonrpc/lib/common/events.js:55:39)
+    at e.fire (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/node_modules/vscode-jsonrpc/lib/common/events.js:117:36)
+    at V8.cancel (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/node_modules/vscode-jsonrpc/lib/common/cancellation.js:41:31)
+    at MH.cancel (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/node_modules/vscode-jsonrpc/lib/common/cancellation.js:82:25)
+    at tc.cancelRequest (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/lib/src/ghostText/asyncCompletions.ts:257:41)
+    at tc.getFirstMatchingRequest (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/lib/src/ghostText/asyncCompletions.ts:234:22)
+    at /home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/lib/src/ghostText/ghostText.ts:986:22 {
+  type: 'aborted',
+  _name: 'AbortError'
+}
+2025-07-21 16:25:59.938 [error] [Extension Host] [ghostText] Error on ghost text request: FetchError: Stream closed with error code NGHTTP2_REFUSED_STREAM
+    at fetch (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at f1.fetch (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/lib/src/network/helix.ts:79:22)
+    at DB.fetchWithParameters (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/lib/src/openai/fetch.ts:865:26)
+    at DB.fetchAndStreamCompletions (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/lib/src/openai/fetch.ts:577:26)
+    at genericGetCompletionsFromNetwork (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/lib/src/ghostText/ghostText.ts:172:21) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'ERR_HTTP2_STREAM_ERROR',
+  errno: undefined,
+  erroredSysCall: undefined
+}
+2025-07-21 16:43:30.780 [error] An unknown error occurred. Please consult the log for more details.
+2025-07-21 16:46:44.978 [error] An unknown error occurred. Please consult the log for more details.
+2025-07-21 16:47:59.464 [error] An unknown error occurred. Please consult the log for more details.
+2025-07-21 16:48:38.311 [error] An unknown error occurred. Please consult the log for more details.

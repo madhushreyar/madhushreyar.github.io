@@ -1,0 +1,19 @@
+2025-07-25 15:20:51.398 [info] update#setState idle
+2025-07-25 15:21:20.500 [info] update#setState checking for updates
+2025-07-25 15:21:20.728 [info] update#setState available for download
+2025-07-25 15:23:04.182 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-25 15:23:04.653 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-25 15:24:20.517 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-25 15:34:23.733 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-25 15:36:32.814 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-25 15:37:09.354 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-25 15:38:36.805 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-25 15:39:41.954 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-25 15:41:09.515 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-25 16:27:53.514 [warning] No ptyHost heartbeat after 6 seconds
+2025-07-25 16:31:41.218 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-25 16:34:26.159 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-25 16:35:59.457 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-25 16:37:02.282 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-25 16:37:41.978 [info] Extension host with pid 448 exited with code: 0, signal: unknown.
+2025-07-25 16:37:42.017 [warning] No ptyHost heartbeat after 6 seconds

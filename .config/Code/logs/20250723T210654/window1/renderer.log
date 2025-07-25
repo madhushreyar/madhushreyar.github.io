@@ -1,0 +1,21 @@
+2025-07-23 21:07:00.629 [warning] Creation of workbench contribution 'workbench.contrib.preferencesActions' took 26ms.
+2025-07-23 21:07:00.675 [warning] Creation of workbench contribution 'workbench.contrib.explorerViewletViews' took 21ms.
+2025-07-23 21:07:00.764 [warning] Creation of workbench contribution 'workbench.contrib.chatSetup' took 22ms.
+2025-07-23 21:07:03.311 [info] Started local extension host with pid 1708.
+2025-07-23 21:07:17.872 [info] ComputeTargetPlatform: linux-x64
+2025-07-23 21:07:28.331 [info] Extension host (LocalProcess pid: 1708) is unresponsive.
+2025-07-23 21:07:32.522 [error] Error while getting the latest version for the extension github.copilot from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Fetch timeout: 10000ms
+2025-07-23 21:07:32.536 [error] Error while getting the latest version for the extension github.copilot-chat from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Fetch timeout: 10000ms
+2025-07-23 21:07:32.548 [error] Error while getting the latest version for the extension ms-vscode.live-server from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Fetch timeout: 10000ms
+2025-07-23 21:07:34.868 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-07-23 21:07:43.642 [info] Extension host (LocalProcess pid: 1708) is responsive.
+2025-07-23 21:07:48.074 [info] Extension host (LocalProcess pid: 1708) is unresponsive.
+2025-07-23 21:07:56.218 [info] Extension host (LocalProcess pid: 1708) is responsive.
+2025-07-23 21:08:09.194 [info] [perf] Render performance baseline is 234ms
+2025-07-23 21:08:25.080 [info] Extension host (LocalProcess pid: 1708) is unresponsive.
+2025-07-23 21:08:29.347 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-07-23 21:08:35.486 [info] Extension host (LocalProcess pid: 1708) is responsive.
+2025-07-23 21:08:36.794 [warning] UNRESPONSIVE extension host: 'github.copilot' took 99.77135184851473% of 5220.966ms, saved PROFILE here: 'file:///tmp/exthost-8e5203.cpuprofile'
+2025-07-23 21:16:58.364 [error] An unknown error occurred. Please consult the log for more details.
+2025-07-23 21:17:39.750 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2025-07-23 21:19:07.489 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted

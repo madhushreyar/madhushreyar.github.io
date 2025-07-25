@@ -1,0 +1,92 @@
+file:///home/ramijaebr/my_portfolio/index.html {"mtime":1752924204517,"ctime":1752924204517,"size":0,"etag":"3ehs0fr4l0","orphaned":false,"typeId":""}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+    <script src="https://unpkg.com/typed.js@2.0.12"></script>
+</head>
+<body>
+    <header class="header">
+        <h1 class="logo">Portfolio</h1>
+        <nav class="navbar">
+            <a href="#" style="--i:7" class="active">Home</a>
+            <a href="#" style="--i:8" >About</a>
+            <a href="#" style="--i:9" >Skills</a>
+            <a href="#" style="--i:10" >Projects</a>
+            <a href="#" style="--i:11" >Contact</a>
+        </nav>
+    </header>
+    
+    <section class="home">
+  <div class="home-content-wrapper">
+    <div class="home-text">
+      <h3>Hello It's Me</h3>
+      <h1>Madhu Kumari</h1>
+      <h3>And I'm a <span class="text"></span></h3>
+      <p>I'm a web developer with a passion for creating beautiful and functional websites.</p>
+      <p>explore my work and let's connect!</p>
+    <div class="home-sci">
+    <a href="#" style="--i:1"><i class='bx bxl-github'></i></a>
+    <a href="#" style="--i:2"><i class='bx bxl-linkedin'></i></a>
+    <a href="#" style="--i:3"><i class='bx bxl-twitter'></i></a>
+    <a href="#" style="--i:4"><i class='bx bxl-instagram'></i></a>
+    <a href="#" style="--i:5"><i class='bx bxl-facebook'></i></a>
+    <a href="#" style="--i:6"><i class='bx bxl-youtube'></i></a>
+  </div>
+    <a href="#" class="btn-box">More About Me</a>
+  </div>
+    <div class="profile-container">
+      <img src="rani.jpg" alt="My Photo" class="profile-img" />
+    </div>
+  </div>
+</section>
+<section class="about" id="about">
+  <div class="about-img">
+    <img src="rani.jpg" alt="About Me" class="rani-img" />
+  </div>
+  <div class="about-text">
+    <h2>About <span>Me</span></h2>
+    <h4>Full Stack Developer</h4>
+    <p>I'm a passionate web developer with a focus on creating dynamic and responsive web applications. I love coding and enjoy learning new technologies.
+      With a background in both front-end and back-end development, I strive to build seamless user experiences. My goal is to contribute to innovative projects that make a difference.
+      In my free time, I enjoy exploring new programming languages and frameworks, as well as contributing to open-source projects.
+      Feel free to connect with me on social media or check out my projects on GitHub!</p>
+       <a href="#" class="btn-box">More About Me</a>
+  </div>
+</section>
+
+<section class="services" id="services">
+  <div class="container">
+    <h2>My Skills</h2>
+    <div class="skill-container">
+      <div class="skill-box">
+        <i class='bx bxl-html5'></i>
+        <h3>HTML</h3>
+      </div>
+      <div class="skill-box">
+        <i class='bx bxl-css3'></i>
+        <h3>CSS</h3>
+      </div>
+      <div class="skill-box">
+        <i class='bx bxl-javascript'></i>
+        <h3>JavaScript</h3>
+      </div>
+      <div class="skill-box">
+        <i class='bx bxl-react'></i>
+        <h3>React</h3>
+      </div>
+      <div class="skill-box">
+        <i class='bx bxl-nodejs'></i>
+        <h3>Node.js</h3>
+      </div>
+    </div>
+  </div>
+</section>
+<script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,20 @@
+2025-07-24 19:26:27.943 [warning] Creation of workbench contribution 'workbench.contrib.preferencesActions' took 27ms.
+2025-07-24 19:26:28.039 [warning] Creation of workbench contribution 'workbench.contrib.explorerViewletViews' took 50ms.
+2025-07-24 19:26:28.148 [warning] Creation of workbench contribution 'workbench.contrib.chatSetup' took 32ms.
+2025-07-24 19:26:28.224 [warning] Creation of workbench contribution 'workbench.contrib.updateExperimentalSettingsDefaults' took 22ms.
+2025-07-24 19:26:30.916 [info] Started local extension host with pid 6961.
+2025-07-24 19:26:31.877 [info] ComputeTargetPlatform: linux-x64
+2025-07-24 19:26:56.814 [info] Extension host (LocalProcess pid: 6961) is unresponsive.
+2025-07-24 19:26:56.852 [info] Extension host (LocalProcess pid: 6961) is responsive.
+2025-07-24 19:27:00.417 [info] Extension host (LocalProcess pid: 6961) is unresponsive.
+2025-07-24 19:27:01.760 [info] Extension host (LocalProcess pid: 6961) is responsive.
+2025-07-24 19:27:14.722 [info] Extension host (LocalProcess pid: 6961) is unresponsive.
+2025-07-24 19:27:21.916 [warning] Creation of workbench contribution 'chat.edits.editorOverlay' took 102ms.
+2025-07-24 19:27:27.782 [info] Extension host (LocalProcess pid: 6961) is responsive.
+2025-07-24 19:27:28.326 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-07-24 19:27:35.820 [info] [perf] Render performance baseline is 145ms
+2025-07-24 19:27:52.456 [info] Extension host (LocalProcess pid: 6961) is unresponsive.
+2025-07-24 19:27:57.407 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-07-24 19:28:03.455 [warning] UNRESPONSIVE extension host: 'github.copilot' took 81.29767809790098% of 4085.188ms, saved PROFILE here: 'file:///tmp/exthost-3183e8.cpuprofile'
+2025-07-24 19:28:03.888 [info] Extension host (LocalProcess pid: 6961) is responsive.
+2025-07-24 20:37:49.521 [warning] [lifecycle] onWillShutdown is taking a long time, pending operations: join.closeStorage

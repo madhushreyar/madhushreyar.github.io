@@ -1,0 +1,503 @@
+2025-07-25 15:21:14.650 [info] Extension host with pid 448 started
+2025-07-25 15:21:14.651 [info] Skipping acquiring lock for /home/ramijaebr/.config/Code/User/workspaceStorage/bdae0965c85b1cb127aa7772ca5b310f.
+2025-07-25 15:21:18.203 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-07-25 15:21:18.406 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-07-25 15:21:18.596 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2025-07-25 15:21:19.540 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2025-07-25 15:21:20.419 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2025-07-25 15:21:21.121 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-07-25 15:21:26.888 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-07-25 15:21:29.311 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-07-25 15:21:32.412 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-07-25 15:21:32.532 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-07-25 15:21:34.580 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-07-25 15:21:46.760 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-07-25 15:21:49.681 [info] Eager extensions activated
+2025-07-25 15:22:04.384 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 15:22:04.385 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 15:22:04.385 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 15:22:04.385 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 15:22:04.385 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 15:22:04.385 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 15:22:04.385 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 15:22:04.385 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 15:22:04.386 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 15:22:04.386 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 15:22:04.386 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 15:22:04.386 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 15:22:04.386 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 15:22:04.386 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 15:22:04.386 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 15:22:04.386 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 15:22:04.386 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 15:22:04.386 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 15:22:04.386 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 15:22:04.386 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 15:22:04.386 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 15:22:04.386 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 15:22:04.386 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 15:22:04.386 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 15:22:04.387 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 15:22:04.387 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 15:22:05.308 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1096
+2025-07-25 15:22:06.368 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 15:22:06.407 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 15:22:06.412 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 15:22:06.418 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 15:22:06.426 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 15:22:06.434 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 15:22:06.439 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 15:22:06.456 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 15:22:06.464 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 15:22:06.477 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 15:22:06.482 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 15:22:06.487 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 15:22:06.493 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 15:22:06.496 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 15:22:06.498 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 15:22:06.500 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 15:22:06.503 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 15:22:06.505 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 15:22:06.507 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 15:22:06.519 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 15:22:06.525 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 15:22:06.531 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 15:22:06.534 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 15:22:06.536 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 15:22:06.543 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 15:22:06.551 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 15:22:08.154 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1096
+2025-07-25 15:22:12.056 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1096
+2025-07-25 15:22:27.617 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1097
+2025-07-25 15:22:33.695 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1097
+2025-07-25 15:22:39.092 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1098
+2025-07-25 15:22:44.511 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1097
+2025-07-25 15:22:46.497 [info] ExtensionService#_doActivateExtension ms-vscode.live-server, startup: false, activationEvent: 'onCommand:livePreview.start.preview.atFile'
+2025-07-25 15:22:50.471 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+2025-07-25 15:22:55.788 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1099
+2025-07-25 15:23:01.090 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1099
+2025-07-25 15:24:41.519 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1099
+2025-07-25 15:24:47.202 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1099
+2025-07-25 15:24:52.713 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1099
+2025-07-25 15:24:58.111 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1099
+2025-07-25 15:25:32.113 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1099
+2025-07-25 15:25:40.229 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1099
+2025-07-25 15:25:45.600 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1099
+2025-07-25 15:25:53.153 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1099
+2025-07-25 15:26:00.271 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1099
+2025-07-25 15:26:06.973 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1099
+2025-07-25 15:26:42.746 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1099
+2025-07-25 15:26:50.076 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1099
+2025-07-25 15:26:56.592 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1099
+2025-07-25 15:27:02.618 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1099
+2025-07-25 15:27:08.823 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1099
+2025-07-25 15:28:40.743 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1100
+2025-07-25 15:28:48.524 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1100
+2025-07-25 15:28:54.440 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1100
+2025-07-25 15:29:00.761 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1100
+2025-07-25 15:29:07.767 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1100
+2025-07-25 15:29:16.153 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1100
+2025-07-25 15:29:23.588 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1100
+2025-07-25 15:29:29.019 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1100
+2025-07-25 15:29:34.835 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1100
+2025-07-25 15:29:53.007 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1100
+2025-07-25 15:29:58.396 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1100
+2025-07-25 15:30:05.370 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1100
+2025-07-25 15:30:12.329 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1100
+2025-07-25 15:31:05.125 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1100
+2025-07-25 15:31:10.591 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1100
+2025-07-25 15:31:16.040 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1100
+2025-07-25 15:31:21.328 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1100
+2025-07-25 15:31:26.615 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1100
+2025-07-25 15:31:31.926 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1100
+2025-07-25 15:31:37.246 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1100
+2025-07-25 15:31:42.610 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1100
+2025-07-25 15:31:47.919 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1100
+2025-07-25 15:31:53.217 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1100
+2025-07-25 15:31:58.515 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1100
+2025-07-25 15:32:03.832 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1100
+2025-07-25 15:33:08.198 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1100
+2025-07-25 15:33:13.838 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+2025-07-25 15:33:19.163 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1100
+2025-07-25 15:36:27.653 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+2025-07-25 15:36:33.727 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+2025-07-25 15:36:39.094 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+2025-07-25 15:36:44.422 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+2025-07-25 15:36:50.267 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+2025-07-25 15:36:55.931 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+2025-07-25 15:37:01.842 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+2025-07-25 15:37:07.616 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+2025-07-25 15:37:25.908 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+2025-07-25 15:37:31.687 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+2025-07-25 15:37:37.485 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+2025-07-25 15:37:44.065 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+2025-07-25 15:37:50.959 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+2025-07-25 15:37:56.540 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+2025-07-25 15:38:01.935 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+2025-07-25 15:38:08.604 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+2025-07-25 15:38:15.490 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+2025-07-25 15:38:21.964 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+2025-07-25 15:38:28.979 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+2025-07-25 15:38:42.565 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+2025-07-25 15:38:47.897 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+2025-07-25 15:38:53.231 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+2025-07-25 15:38:58.585 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+2025-07-25 15:39:04.224 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+2025-07-25 15:39:09.610 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+2025-07-25 15:39:15.170 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+2025-07-25 15:39:20.774 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+2025-07-25 15:39:26.355 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+2025-07-25 15:39:46.100 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+2025-07-25 15:39:51.702 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+2025-07-25 15:40:34.607 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+2025-07-25 15:40:41.020 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+2025-07-25 15:40:46.541 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+2025-07-25 15:40:53.288 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1101
+2025-07-25 15:40:59.168 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+2025-07-25 15:41:05.116 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+2025-07-25 15:41:13.056 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+2025-07-25 15:41:54.121 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+2025-07-25 15:41:59.462 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+2025-07-25 15:42:08.429 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+2025-07-25 15:42:13.982 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+2025-07-25 15:42:22.518 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1102
+2025-07-25 15:42:29.126 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1104
+2025-07-25 15:42:34.825 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1104
+2025-07-25 15:42:40.173 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1104
+2025-07-25 15:42:45.520 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1104
+2025-07-25 15:42:51.033 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1104
+2025-07-25 15:42:56.371 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1104
+2025-07-25 15:43:01.676 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1104
+2025-07-25 15:43:07.023 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1104
+2025-07-25 15:43:13.190 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:43:18.691 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:43:24.019 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:43:29.370 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:43:34.688 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:43:40.009 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:43:45.334 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:43:50.666 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:43:56.004 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:44:01.338 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:44:06.676 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:44:12.037 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:44:17.358 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:44:22.855 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:44:28.138 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:44:33.498 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:44:38.830 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:44:44.099 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:44:49.599 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:44:54.935 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:45:00.337 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:45:05.650 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:45:10.970 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:45:16.376 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:45:22.766 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:45:28.721 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:45:44.737 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:45:50.127 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:45:55.410 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:46:01.006 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:46:06.356 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:46:11.683 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:46:17.077 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:46:22.442 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:46:27.748 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:46:33.144 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:46:38.555 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:46:43.836 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:46:49.161 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:46:54.498 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:46:59.797 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:47:05.117 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:47:10.518 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:47:15.811 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:47:21.165 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:47:26.611 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:47:31.975 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:47:37.521 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:47:42.899 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:47:48.184 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:47:53.431 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:48:01.706 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:48:06.994 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:48:12.498 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:48:18.934 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:48:26.052 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:48:31.900 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:48:38.072 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:49:00.650 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:49:07.880 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:49:13.648 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:49:19.471 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:49:25.377 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:49:31.144 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:49:36.977 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1107
+2025-07-25 15:49:42.315 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:49:47.733 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:49:53.311 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:49:58.629 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:50:04.229 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:50:09.529 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:50:14.909 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:50:20.233 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 15:50:25.554 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 16:28:06.815 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 16:28:32.831 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 16:28:38.457 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 16:28:43.801 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 16:28:49.446 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 16:28:55.107 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 16:29:00.582 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 16:29:05.975 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 16:29:11.595 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 16:29:17.025 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 16:29:22.358 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 16:29:28.314 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1107
+2025-07-25 16:29:33.610 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1107
+2025-07-25 16:29:38.917 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 16:29:44.426 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 16:29:49.795 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 16:29:55.731 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 16:30:02.015 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 16:30:08.437 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 16:30:26.042 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 16:30:31.516 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 16:30:37.151 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1107
+2025-07-25 16:30:42.835 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 16:30:48.724 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 16:30:54.867 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1106
+2025-07-25 16:30:57.412 [error] Error: Soft Assertion Failed
+
+Error: Soft Assertion Failed
+    at xqe (/home/ramijaebr/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:389:11936)
+    at qG._trackSurvivalRate (/home/ramijaebr/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:792:44534)
+    at qG._handleAcceptance (/home/ramijaebr/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:792:43870)
+    at qG.handleEndOfLifetime (/home/ramijaebr/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:792:44004)
+    at _n.handleEndOfLifetime (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:145:146460)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:145:165540
+    at Zt.s (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:145:155573)
+    at Zt.$handleInlineCompletionEndOfLifetime (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:145:165521)
+    at f5.S (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:116111)
+    at f5.Q (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:115891)
+    at f5.M (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:114980)
+    at f5.L (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:114085)
+    at ed.value (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:112882)
+    at P.B (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at P.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+    at lo.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+    at ed.value (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:225:3917)
+    at P.B (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at P.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+    at lo.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+    at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:225:2209)
+    at MessagePortMain.emit (node:events:524:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+    at Timeout._onTimeout (/home/ramijaebr/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:387:12)
+    at listOnTimeout (node:internal/timers:581:17)
+    at processTimers (node:internal/timers:519:7)
+2025-07-25 16:31:00.789 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1106
+2025-07-25 16:31:07.233 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1106
+2025-07-25 16:31:13.215 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1106
+2025-07-25 16:31:18.880 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1106
+2025-07-25 16:31:26.138 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1106
+2025-07-25 16:31:31.441 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1106
+2025-07-25 16:31:36.794 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1106
+2025-07-25 16:31:44.333 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1106
+2025-07-25 16:31:50.564 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1106
+2025-07-25 16:32:02.339 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1106
+2025-07-25 16:32:07.598 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1106
+2025-07-25 16:32:12.920 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1106
+2025-07-25 16:32:18.735 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1107
+2025-07-25 16:32:24.347 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1107
+2025-07-25 16:32:30.182 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1107
+2025-07-25 16:32:35.569 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1107
+2025-07-25 16:32:41.541 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1107
+2025-07-25 16:32:47.362 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1107
+2025-07-25 16:32:52.679 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1107
+2025-07-25 16:32:58.380 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1107
+2025-07-25 16:33:35.369 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1107
+2025-07-25 16:33:42.000 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1107
+2025-07-25 16:33:48.527 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1107
+2025-07-25 16:33:55.408 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1107
+2025-07-25 16:34:01.116 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1107
+2025-07-25 16:34:06.722 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1107
+2025-07-25 16:34:12.260 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1107
+2025-07-25 16:34:17.882 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1107
+2025-07-25 16:34:23.381 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1107
+2025-07-25 16:34:39.067 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1107
+2025-07-25 16:34:45.146 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1107
+2025-07-25 16:34:50.879 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1107
+2025-07-25 16:34:56.512 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1107
+2025-07-25 16:35:05.316 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1107
+2025-07-25 16:35:10.897 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1107
+2025-07-25 16:35:17.475 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1107
+2025-07-25 16:35:25.710 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1107
+2025-07-25 16:35:31.076 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1107
+2025-07-25 16:35:36.437 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1107
+2025-07-25 16:35:42.060 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1107
+2025-07-25 16:35:47.664 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1107
+2025-07-25 16:35:52.969 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1107
+2025-07-25 16:36:22.184 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1107
+2025-07-25 16:36:27.838 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1107
+2025-07-25 16:37:14.199 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1107
+2025-07-25 16:37:34.770 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1107
+2025-07-25 16:37:35.578 [info] Extension host terminating: renderer closed the MessagePort
+2025-07-25 16:37:37.153 [info] Extension host with pid 448 exiting with code 0

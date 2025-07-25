@@ -1,0 +1,227 @@
+2025-07-21 16:04:22.314 [info] Extension host with pid 6943 started
+2025-07-21 16:04:22.314 [info] Skipping acquiring lock for /home/ramijaebr/.config/Code/User/workspaceStorage/bdae0965c85b1cb127aa7772ca5b310f.
+2025-07-21 16:04:26.289 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-07-21 16:04:26.641 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-07-21 16:04:26.854 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2025-07-21 16:04:27.756 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2025-07-21 16:04:28.403 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2025-07-21 16:04:29.322 [info] ExtensionService#_doActivateExtension ms-vscode.live-server, startup: false, activationEvent: 'onWebviewPanel:browserPreview'
+2025-07-21 16:04:30.024 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-07-21 16:04:35.353 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-07-21 16:04:36.394 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-07-21 16:04:38.312 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-07-21 16:04:38.473 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-07-21 16:04:39.127 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-07-21 16:04:54.157 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-07-21 16:05:00.255 [info] Eager extensions activated
+2025-07-21 16:05:03.359 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-07-21 16:05:03.405 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-07-21 16:08:10.963 [error] Error: Soft Assertion Failed
+
+Error: Soft Assertion Failed
+    at xqe (/home/ramijaebr/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:389:11936)
+    at qG._trackSurvivalRate (/home/ramijaebr/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:792:44534)
+    at qG._handleAcceptance (/home/ramijaebr/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:792:43870)
+    at qG.handleEndOfLifetime (/home/ramijaebr/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:792:44004)
+    at _n.handleEndOfLifetime (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:145:146460)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:145:165540
+    at Zt.s (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:145:155573)
+    at Zt.$handleInlineCompletionEndOfLifetime (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:145:165521)
+    at f5.S (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:116111)
+    at f5.Q (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:115891)
+    at f5.M (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:114980)
+    at f5.L (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:114085)
+    at ed.value (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:112882)
+    at P.B (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at P.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+    at lo.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+    at ed.value (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:225:3917)
+    at P.B (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at P.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+    at lo.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+    at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:225:2209)
+    at MessagePortMain.emit (node:events:524:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+    at Timeout._onTimeout (/home/ramijaebr/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:387:12)
+    at listOnTimeout (node:internal/timers:581:17)
+    at processTimers (node:internal/timers:519:7)
+2025-07-21 16:08:26.020 [error] Error: Soft Assertion Failed
+
+Error: Soft Assertion Failed
+    at xqe (/home/ramijaebr/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:389:11936)
+    at qG._trackSurvivalRate (/home/ramijaebr/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:792:44534)
+    at qG._handleAcceptance (/home/ramijaebr/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:792:43870)
+    at qG.handleEndOfLifetime (/home/ramijaebr/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:792:44004)
+    at _n.handleEndOfLifetime (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:145:146460)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:145:165540
+    at Zt.s (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:145:155573)
+    at Zt.$handleInlineCompletionEndOfLifetime (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:145:165521)
+    at f5.S (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:116111)
+    at f5.Q (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:115891)
+    at f5.M (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:114980)
+    at f5.L (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:114085)
+    at ed.value (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:112882)
+    at P.B (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at P.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+    at lo.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+    at ed.value (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:225:3917)
+    at P.B (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at P.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+    at lo.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+    at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:225:2209)
+    at MessagePortMain.emit (node:events:524:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+    at Timeout._onTimeout (/home/ramijaebr/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:387:12)
+    at listOnTimeout (node:internal/timers:581:17)
+    at processTimers (node:internal/timers:519:7)
+2025-07-21 16:09:12.100 [error] Error: Soft Assertion Failed
+
+Error: Soft Assertion Failed
+    at xqe (/home/ramijaebr/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:389:11936)
+    at qG._trackSurvivalRate (/home/ramijaebr/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:792:44534)
+    at qG._handleAcceptance (/home/ramijaebr/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:792:43870)
+    at qG.handleEndOfLifetime (/home/ramijaebr/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:792:44004)
+    at _n.handleEndOfLifetime (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:145:146460)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:145:165540
+    at Zt.s (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:145:155573)
+    at Zt.$handleInlineCompletionEndOfLifetime (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:145:165521)
+    at f5.S (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:116111)
+    at f5.Q (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:115891)
+    at f5.M (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:114980)
+    at f5.L (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:114085)
+    at ed.value (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:112882)
+    at P.B (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at P.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+    at lo.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+    at ed.value (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:225:3917)
+    at P.B (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at P.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+    at lo.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+    at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:225:2209)
+    at MessagePortMain.emit (node:events:524:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+    at Timeout._onTimeout (/home/ramijaebr/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:387:12)
+    at listOnTimeout (node:internal/timers:581:17)
+    at processTimers (node:internal/timers:519:7)
+2025-07-21 16:43:30.526 [error] Error: Soft Assertion Failed
+
+Error: Soft Assertion Failed
+    at xqe (/home/ramijaebr/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:389:11936)
+    at qG._trackSurvivalRate (/home/ramijaebr/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:792:44534)
+    at qG._handleAcceptance (/home/ramijaebr/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:792:43870)
+    at qG.handleEndOfLifetime (/home/ramijaebr/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:792:44004)
+    at _n.handleEndOfLifetime (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:145:146460)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:145:165540
+    at Zt.s (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:145:155573)
+    at Zt.$handleInlineCompletionEndOfLifetime (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:145:165521)
+    at f5.S (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:116111)
+    at f5.Q (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:115891)
+    at f5.M (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:114980)
+    at f5.L (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:114085)
+    at ed.value (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:112882)
+    at P.B (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at P.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+    at lo.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+    at ed.value (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:225:3917)
+    at P.B (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at P.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+    at lo.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+    at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:225:2209)
+    at MessagePortMain.emit (node:events:524:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+    at Object.callbackTrampoline (node:internal/async_hooks:130:17)
+    at Timeout._onTimeout (/home/ramijaebr/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:387:12)
+    at listOnTimeout (node:internal/timers:581:17)
+    at processTimers (node:internal/timers:519:7)
+2025-07-21 16:46:44.722 [error] Error: Soft Assertion Failed
+
+Error: Soft Assertion Failed
+    at xqe (/home/ramijaebr/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:389:11936)
+    at qG._trackSurvivalRate (/home/ramijaebr/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:792:44534)
+    at qG._handleAcceptance (/home/ramijaebr/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:792:43870)
+    at qG.handleEndOfLifetime (/home/ramijaebr/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:792:44004)
+    at _n.handleEndOfLifetime (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:145:146460)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:145:165540
+    at Zt.s (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:145:155573)
+    at Zt.$handleInlineCompletionEndOfLifetime (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:145:165521)
+    at f5.S (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:116111)
+    at f5.Q (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:115891)
+    at f5.M (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:114980)
+    at f5.L (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:114085)
+    at ed.value (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:112882)
+    at P.B (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at P.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+    at lo.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+    at ed.value (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:225:3917)
+    at P.B (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at P.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+    at lo.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+    at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:225:2209)
+    at MessagePortMain.emit (node:events:524:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+    at Object.callbackTrampoline (node:internal/async_hooks:130:17)
+    at Timeout._onTimeout (/home/ramijaebr/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:387:12)
+    at listOnTimeout (node:internal/timers:581:17)
+    at processTimers (node:internal/timers:519:7)
+2025-07-21 16:47:59.270 [error] Error: Soft Assertion Failed
+
+Error: Soft Assertion Failed
+    at xqe (/home/ramijaebr/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:389:11936)
+    at qG._trackSurvivalRate (/home/ramijaebr/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:792:44534)
+    at qG._handleAcceptance (/home/ramijaebr/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:792:43870)
+    at qG.handleEndOfLifetime (/home/ramijaebr/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:792:44004)
+    at _n.handleEndOfLifetime (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:145:146460)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:145:165540
+    at Zt.s (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:145:155573)
+    at Zt.$handleInlineCompletionEndOfLifetime (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:145:165521)
+    at f5.S (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:116111)
+    at f5.Q (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:115891)
+    at f5.M (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:114980)
+    at f5.L (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:114085)
+    at ed.value (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:112882)
+    at P.B (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at P.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+    at lo.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+    at ed.value (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:225:3917)
+    at P.B (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at P.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+    at lo.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+    at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:225:2209)
+    at MessagePortMain.emit (node:events:524:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+    at Object.callbackTrampoline (node:internal/async_hooks:130:17)
+    at Timeout._onTimeout (/home/ramijaebr/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:387:12)
+    at listOnTimeout (node:internal/timers:581:17)
+    at processTimers (node:internal/timers:519:7)
+2025-07-21 16:48:38.094 [error] Error: Soft Assertion Failed
+
+Error: Soft Assertion Failed
+    at xqe (/home/ramijaebr/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:389:11936)
+    at qG._trackSurvivalRate (/home/ramijaebr/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:792:44534)
+    at qG._handleAcceptance (/home/ramijaebr/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:792:43870)
+    at qG.handleEndOfLifetime (/home/ramijaebr/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:792:44004)
+    at _n.handleEndOfLifetime (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:145:146460)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:145:165540
+    at Zt.s (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:145:155573)
+    at Zt.$handleInlineCompletionEndOfLifetime (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:145:165521)
+    at f5.S (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:116111)
+    at f5.Q (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:115891)
+    at f5.M (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:114980)
+    at f5.L (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:114085)
+    at ed.value (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:112882)
+    at P.B (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at P.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+    at lo.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+    at ed.value (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:225:3917)
+    at P.B (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at P.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+    at lo.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+    at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:225:2209)
+    at MessagePortMain.emit (node:events:524:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+    at Object.callbackTrampoline (node:internal/async_hooks:130:17)
+    at Timeout._onTimeout (/home/ramijaebr/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:387:12)
+    at listOnTimeout (node:internal/timers:581:17)
+    at processTimers (node:internal/timers:519:7)
+2025-07-21 16:59:13.346 [info] Extension host terminating: renderer closed the MessagePort
+2025-07-21 16:59:14.837 [info] Extension host with pid 6943 exiting with code 0

@@ -1,0 +1,115 @@
+2025-07-23 21:08:17.654 [info] [main] Log level: Info
+2025-07-23 21:08:17.655 [info] [main] Validating found git in: "git"
+2025-07-23 21:08:17.655 [info] [main] Using git "2.39.5" from "git"
+2025-07-23 21:08:17.655 [info] [Model][doInitialScan] Initial repository scan started
+2025-07-23 21:08:17.655 [info] > git rev-parse --show-toplevel [2990ms]
+2025-07-23 21:08:17.655 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-07-23 21:08:17.655 [info] > git rev-parse --show-toplevel [520ms]
+2025-07-23 21:08:17.655 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-07-23 21:08:19.265 [info] > git rev-parse --show-toplevel [58ms]
+2025-07-23 21:08:19.266 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-07-23 21:08:19.383 [info] > git rev-parse --show-toplevel [43ms]
+2025-07-23 21:08:19.385 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-07-23 21:08:19.524 [info] > git rev-parse --show-toplevel [31ms]
+2025-07-23 21:08:19.524 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-07-23 21:08:19.714 [info] > git rev-parse --show-toplevel [58ms]
+2025-07-23 21:08:19.715 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-07-23 21:08:20.051 [info] > git rev-parse --show-toplevel [154ms]
+2025-07-23 21:08:20.052 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-07-23 21:08:20.112 [info] > git rev-parse --show-toplevel [14ms]
+2025-07-23 21:08:20.113 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-07-23 21:08:20.194 [info] > git rev-parse --show-toplevel [22ms]
+2025-07-23 21:08:20.194 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-07-23 21:08:20.553 [info] > git rev-parse --show-toplevel [289ms]
+2025-07-23 21:08:20.553 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-07-23 21:08:20.568 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-07-23 21:11:23.212 [info] > git rev-parse --show-toplevel [46ms]
+2025-07-23 21:11:23.218 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-07-23 21:16:57.959 [info] > git rev-parse --show-toplevel [7ms]
+2025-07-23 21:16:58.024 [info] > git rev-parse --git-dir --git-common-dir [9ms]
+2025-07-23 21:16:58.149 [info] [Model][openRepository] Opened repository (path): /home/ramijaebr/madhushreyar
+2025-07-23 21:16:58.150 [info] [Model][openRepository] Opened repository (real path): /home/ramijaebr/madhushreyar
+2025-07-23 21:16:58.260 [info] > git config --get commit.template [24ms]
+2025-07-23 21:16:58.345 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [31ms]
+2025-07-23 21:16:58.347 [warning] [Git][getBranch] No such branch: master
+2025-07-23 21:16:58.503 [info] > git status -z -uall [101ms]
+2025-07-23 21:16:58.505 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [15ms]
+2025-07-23 21:16:58.725 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [156ms]
+2025-07-23 21:16:58.726 [warning] [Git][getBranch] No such branch: master
+2025-07-23 21:16:58.748 [error] [GitHistoryProvider][resolveHEADMergeBase] Failed to resolve merge base for master: Error: No such branch: master.
+2025-07-23 21:16:58.815 [info] > git config --get commit.template [91ms]
+2025-07-23 21:16:58.885 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [13ms]
+2025-07-23 21:16:58.886 [warning] [Git][getBranch] No such branch: master
+2025-07-23 21:16:59.313 [info] > git status -z -uall [244ms]
+2025-07-23 21:16:59.319 [info] > git check-ignore -v -z --stdin [60ms]
+2025-07-23 21:16:59.335 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [164ms]
+2025-07-23 21:17:41.205 [warning] [Git][getHEAD] Failed to parse HEAD file: ENOENT: no such file or directory, open '/home/ramijaebr/madhushreyar/.git/HEAD'
+2025-07-23 21:17:41.460 [warning] [Git][getRemotes] Error: ENOENT: no such file or directory, open '/home/ramijaebr/madhushreyar/.git/config'
+2025-07-23 21:17:41.970 [warning] [Git][getHEAD] Failed to parse HEAD file: ENOENT: no such file or directory, open '/home/ramijaebr/madhushreyar/.git/HEAD'
+2025-07-23 21:17:42.192 [warning] [Git][getRemotes] Error: ENOENT: no such file or directory, open '/home/ramijaebr/madhushreyar/.git/config'
+2025-07-23 21:19:03.718 [info] > git rev-parse --show-toplevel [21ms]
+2025-07-23 21:19:03.882 [info] > git rev-parse --git-dir --git-common-dir [31ms]
+2025-07-23 21:19:03.996 [info] [Model][openRepository] Opened repository (path): /home/ramijaebr/madhushreyar
+2025-07-23 21:19:03.997 [info] [Model][openRepository] Opened repository (real path): /home/ramijaebr/madhushreyar
+2025-07-23 21:19:04.207 [info] > git config --get commit.template [30ms]
+2025-07-23 21:19:04.419 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [21ms]
+2025-07-23 21:19:04.420 [warning] [Git][getBranch] No such branch: master
+2025-07-23 21:19:04.686 [info] > git status -z -uall [172ms]
+2025-07-23 21:19:04.687 [info] > git check-ignore -v -z --stdin [11ms]
+2025-07-23 21:19:04.698 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [113ms]
+2025-07-23 21:19:05.021 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [230ms]
+2025-07-23 21:19:05.021 [warning] [Git][getBranch] No such branch: master
+2025-07-23 21:19:05.039 [error] [GitHistoryProvider][resolveHEADMergeBase] Failed to resolve merge base for master: Error: No such branch: master.
+2025-07-23 21:19:05.129 [info] > git config --get commit.template [141ms]
+2025-07-23 21:19:05.246 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [24ms]
+2025-07-23 21:19:05.258 [warning] [Git][getBranch] No such branch: master
+2025-07-23 21:19:05.646 [info] > git status -z -uall [242ms]
+2025-07-23 21:19:05.647 [info] > git check-ignore -v -z --stdin [4ms]
+2025-07-23 21:19:05.652 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [111ms]
+2025-07-23 21:19:08.516 [warning] [Git][getHEAD] Failed to parse HEAD file: ENOENT: no such file or directory, open '/home/ramijaebr/madhushreyar/.git/HEAD'
+2025-07-23 21:19:08.611 [warning] [Git][getRemotes] Error: ENOENT: no such file or directory, open '/home/ramijaebr/madhushreyar/.git/config'
+2025-07-23 21:19:08.774 [warning] [Git][getHEAD] Failed to parse HEAD file: ENOENT: no such file or directory, open '/home/ramijaebr/madhushreyar/.git/HEAD'
+2025-07-23 21:19:08.938 [warning] [Git][getRemotes] Error: ENOENT: no such file or directory, open '/home/ramijaebr/madhushreyar/.git/config'
+2025-07-23 21:21:00.736 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/ramijaebr/madhushreyar". Error:Error: ENOENT: no such file or directory, realpath '/home/ramijaebr/madhushreyar'
+2025-07-23 21:21:02.022 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/ramijaebr/madhushreyar". Error:Error: ENOENT: no such file or directory, realpath '/home/ramijaebr/madhushreyar'
+2025-07-23 21:21:02.687 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/ramijaebr/madhushreyar". Error:Error: ENOENT: no such file or directory, realpath '/home/ramijaebr/madhushreyar'
+2025-07-23 21:21:14.662 [info] > git rev-parse --show-toplevel [16ms]
+2025-07-23 21:21:14.749 [info] > git rev-parse --git-dir --git-common-dir [11ms]
+2025-07-23 21:21:14.781 [info] [Model][openRepository] Opened repository (path): /home/ramijaebr/madhushreyar.github.io
+2025-07-23 21:21:14.784 [info] [Model][openRepository] Opened repository (real path): /home/ramijaebr/madhushreyar.github.io
+2025-07-23 21:21:14.855 [info] > git config --get commit.template [14ms]
+2025-07-23 21:21:14.922 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [17ms]
+2025-07-23 21:21:14.992 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/ramijaebr/madhushreyar.github.io/.git/refs/remotes/origin/main'
+2025-07-23 21:21:14.996 [info] > git rev-parse refs/remotes/origin/main [14ms]
+2025-07-23 21:21:15.119 [info] > git status -z -uall [73ms]
+2025-07-23 21:21:15.127 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [14ms]
+2025-07-23 21:21:15.525 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [175ms]
+2025-07-23 21:21:17.240 [info] > git config --get --local branch.main.vscode-merge-base [1546ms]
+2025-07-23 21:21:17.241 [warning] [Git][config] git config failed: Failed to execute git
+2025-07-23 21:21:17.385 [info] > git config --get commit.template [1865ms]
+2025-07-23 21:21:18.555 [info] > git reflog main --grep-reflog=branch: Created from *. [1171ms]
+2025-07-23 21:21:19.141 [info] > git check-ignore -v -z --stdin [287ms]
+2025-07-23 21:21:19.186 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [470ms]
+2025-07-23 21:21:19.717 [info] > git show --textconv :README.md [143ms]
+2025-07-23 21:21:19.727 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [363ms]
+2025-07-23 21:21:19.851 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [760ms]
+2025-07-23 21:21:20.018 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/ramijaebr/madhushreyar.github.io/.git/refs/remotes/origin/main'
+2025-07-23 21:21:20.043 [info] > git config --add --local branch.main.vscode-merge-base origin/main [193ms]
+2025-07-23 21:21:20.079 [info] > git ls-files --stage -- README.md [386ms]
+2025-07-23 21:21:20.446 [info] > git cat-file -s 262426f5acdda5eb58d7138f3d3788b4550d02ac [223ms]
+2025-07-23 21:21:20.462 [info] > git rev-parse refs/remotes/origin/main [443ms]
+2025-07-23 21:21:20.695 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [52ms]
+2025-07-23 21:21:20.881 [info] > git config --get commit.template [476ms]
+2025-07-23 21:21:21.227 [info] > git config --get --local branch.main.vscode-merge-base [353ms]
+2025-07-23 21:21:21.998 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [623ms]
+2025-07-23 21:21:22.129 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [450ms]
+2025-07-23 21:21:22.198 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/ramijaebr/madhushreyar.github.io/.git/refs/remotes/origin/main'
+2025-07-23 21:21:22.213 [info] > git merge-base refs/heads/main refs/remotes/origin/main [114ms]
+2025-07-23 21:21:22.303 [info] > git rev-parse refs/remotes/origin/main [105ms]
+2025-07-23 21:21:22.451 [info] > git status -z -uall [73ms]
+2025-07-23 21:21:22.473 [info] > git diff --name-status -z --diff-filter=ADMR 5846a4cec008b5a929daca2bc29e80b749a5c7e6...refs/remotes/origin/main [201ms]
+2025-07-23 21:21:22.479 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [38ms]
+2025-07-23 21:21:25.166 [info] > git ls-files --stage -- README.md [295ms]
+2025-07-23 21:21:25.725 [info] > git cat-file -s 262426f5acdda5eb58d7138f3d3788b4550d02ac [388ms]
+2025-07-23 21:21:26.622 [info] > git show --textconv :README.md [61ms]
+2025-07-23 21:23:42.255 [info] > git blame --root --incremental 5846a4cec008b5a929daca2bc29e80b749a5c7e6 -- README.md [40ms]

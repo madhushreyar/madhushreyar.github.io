@@ -1,0 +1,603 @@
+2025-07-22 09:49:03.642 [info] [certificates] Removed 5 expired certificates
+2025-07-22 09:49:06.266 [info] [fetcher] Using Helix fetcher.
+2025-07-22 09:49:06.268 [info] [code-referencing] Public code references are enabled.
+2025-07-22 09:49:16.603 [info] [fetcher] Using Helix fetcher.
+2025-07-22 09:51:08.986 [warning] [relatedFiles] unknown language html
+2025-07-22 09:51:10.303 [info] [fetchCompletions] Request 6606ea8f-8398-48f8-90a6-8b5d33cd11fb at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 1142.676460000017ms
+2025-07-22 09:51:10.802 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 09:51:11.740 [info] [fetchCompletions] Request 0b5853c6-6f76-47b9-a9ca-99bac213b94b at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 572.7125429999724ms
+2025-07-22 09:51:11.897 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-07-22 09:51:15.125 [info] [fetchCompletions] Request c96dcb3b-856d-4968-8faf-14f77c75d9fd at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 639.1691410000203ms
+2025-07-22 09:51:15.598 [info] [fetchCompletions] Request 51c9202f-8515-4091-8587-ba1e16500b86 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 313.9734659999958ms
+2025-07-22 09:51:15.676 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 09:51:16.246 [info] [fetchCompletions] Request d7dfc6f4-0c36-4c7b-8f44-e7ea1db654c9 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 461.2456399999792ms
+2025-07-22 09:51:16.344 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-07-22 09:51:16.941 [info] [fetchCompletions] Request 1cb282a3-3e40-4366-aad0-47f268b47150 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 351.8647320000164ms
+2025-07-22 09:51:16.996 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 09:52:25.086 [info] [fetchCompletions] Request 52470b77-93d5-4a34-86a1-559da6ae5cf5 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 446.53579700004775ms
+2025-07-22 09:52:25.227 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 09:52:26.274 [info] [fetchCompletions] Request 6ebf8665-18d0-4327-b99c-066e4533337d at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 332.2984249999863ms
+2025-07-22 09:52:26.426 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-07-22 09:52:28.724 [info] [fetchCompletions] Request b8e10c12-0cdb-47ff-917b-9a2fc90c0506 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 463.53411399998004ms
+2025-07-22 09:52:28.888 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-07-22 09:52:32.959 [info] [fetchCompletions] Request 7ef82853-d0d3-46ab-a95a-d6fc79d95252 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 343.8513459999813ms
+2025-07-22 09:52:33.006 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 09:52:33.020 [info] [streamChoices] solution 1 returned. finish reason: [stop]
+2025-07-22 09:52:33.029 [info] [streamChoices] solution 2 returned. finish reason: [stop]
+2025-07-22 09:53:54.568 [info] [fetchCompletions] Request 8f93af9a-c350-450a-b74a-99a1c2ba60cd at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 405.4742040000274ms
+2025-07-22 09:53:54.594 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 09:55:45.322 [info] [fetchCompletions] Request d7f44e2e-8803-4aaf-a070-01d8862bc5a7 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 392.4135190000525ms
+2025-07-22 09:55:45.443 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 09:55:45.965 [info] [fetchCompletions] Request 04b2a2c4-4153-406c-847c-34000f518315 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 314.61920000001555ms
+2025-07-22 09:55:46.063 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 09:55:49.597 [info] [fetchCompletions] Request 41cef08c-5136-43b5-a8b9-a94cb794f31c at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 495.73773699998856ms
+2025-07-22 09:55:49.628 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 09:55:50.048 [info] [fetchCompletions] Request 023244db-dbf9-46f6-a814-77b0e129c3bb at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 359.62980600004084ms
+2025-07-22 09:55:50.327 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-07-22 09:55:51.299 [info] [fetchCompletions] Request a00574af-fc38-4a95-b764-b126e98f70b9 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 338.8341199999559ms
+2025-07-22 09:55:51.396 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 09:55:53.215 [info] [fetchCompletions] Request b91bacad-410d-401e-b61e-a4df171e8c2b at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 555.0084480000078ms
+2025-07-22 09:55:53.352 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 09:55:54.589 [info] [fetchCompletions] Request dfb8f80c-de8d-40fb-81ee-c01a5184312f at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 756.3081310000271ms
+2025-07-22 09:55:54.674 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-07-22 09:56:31.159 [info] [fetchCompletions] Request f74b8a06-7744-4e69-8e8a-d8acd3aca333 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 342.47662600001786ms
+2025-07-22 09:56:37.476 [info] [fetchCompletions] Request 63dd211f-409b-4e30-81ac-3715b8712f2a at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 379.990393999964ms
+2025-07-22 09:56:38.132 [info] [streamChoices] solution 0 returned. finish reason: [content_filter]
+2025-07-22 09:56:41.982 [info] [fetchCompletions] Request 89a0d6ac-829c-4758-80cb-ea60a0c1b6c8 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 408.84147099999245ms
+2025-07-22 09:56:42.848 [info] [streamChoices] solution 0 returned. finish reason: [content_filter]
+2025-07-22 09:56:43.430 [info] [fetchCompletions] Request dcf52a19-eb1b-418c-a106-aede8b34d9c8 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 351.30229000002146ms
+2025-07-22 09:56:43.849 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 09:56:44.438 [info] [fetchCompletions] Request 3076d93f-91de-419f-a6ff-982b2749aac9 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 398.68039699993096ms
+2025-07-22 09:56:44.832 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 09:56:45.943 [info] [fetchCompletions] Request 5acb70ea-bf59-42fa-825c-707efb8bccce at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 495.5385969999479ms
+2025-07-22 09:57:05.532 [info] [fetchCompletions] Request dfbb0bf9-5c5d-4ef7-9ba6-a68f66725ccc at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 570.2863260000013ms
+2025-07-22 09:57:06.554 [info] [fetchCompletions] Request 8ecef9f8-0539-4b4d-a7b4-5b7a9904577d at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 350.1587789999321ms
+2025-07-22 09:57:07.064 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 09:57:07.542 [info] [fetchCompletions] Request 945470b1-ec74-415f-be1b-b5f86efc557f at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 339.39269799995236ms
+2025-07-22 09:57:07.696 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 09:59:49.728 [info] [fetchCompletions] Request 0f8bb93f-b7cd-4771-a457-c1e6afb7bd59 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 1265.9572589999298ms
+2025-07-22 09:59:50.006 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 09:59:50.898 [info] [fetchCompletions] Request 41141b8c-87d4-445d-b253-17582dc2d6ec at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 614.065523999976ms
+2025-07-22 09:59:51.063 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 09:59:55.565 [info] [fetchCompletions] Request 4b7d0fb0-d866-41c1-b66b-b30dd06ebd27 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 618.2108680000529ms
+2025-07-22 09:59:56.624 [info] [fetchCompletions] Request 0079c261-08b3-496f-9d65-7124cf3a990c at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 330.62666399998125ms
+2025-07-22 09:59:56.873 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 09:59:57.355 [info] [fetchCompletions] Request 7d6b7164-88b2-448d-914b-b7b97ac7f6d7 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 330.1726610000478ms
+2025-07-22 09:59:57.522 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-07-22 15:58:56.375 [info] [fetcher] Using Helix fetcher.
+2025-07-22 15:58:56.376 [info] [code-referencing] Public code references are enabled.
+2025-07-22 15:58:56.882 [info] [fetcher] Using Helix fetcher.
+2025-07-22 16:00:50.341 [warning] [relatedFiles] unknown language css
+2025-07-22 16:00:51.736 [info] [fetchCompletions] Request a4609904-5420-4224-bc41-2734cf96c944 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 1234.2425849996507ms
+2025-07-22 16:00:51.886 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:00:52.400 [info] [fetchCompletions] Request 3b67e604-cee4-44fc-9ede-0d08fd10d776 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 439.33312600106ms
+2025-07-22 16:00:52.537 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-07-22 16:00:52.575 [info] [ghostText] Filtered out solution matching next line
+2025-07-22 16:00:55.153 [info] [fetchCompletions] Request 348a015f-bb61-444c-9e33-3e712ee2abcc at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 682.7425309978426ms
+2025-07-22 16:00:55.383 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:00:55.980 [info] [fetchCompletions] Request efa418d9-619e-4dc6-8c43-7f052eb4722f at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 471.6550999991596ms
+2025-07-22 16:00:56.074 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:00:59.585 [info] [ghostText] Filtered out solution matching next line
+2025-07-22 16:01:00.029 [info] [fetchCompletions] Request 7ba68f18-a12a-46c1-b96a-2c4f47704f13 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 1726.8980639986694ms
+2025-07-22 16:01:00.426 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:01:18.264 [info] [fetchCompletions] Request efbf6191-fad8-4513-af48-6acd079cf098 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 777.2265960015357ms
+2025-07-22 16:01:19.336 [info] [fetchCompletions] Request f33c5660-a87d-4d85-ab24-983551ad24e1 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 823.1469069980085ms
+2025-07-22 16:01:19.375 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:01:19.458 [info] [ghostText] Filtered out solution matching next line
+2025-07-22 16:01:23.048 [info] [fetchCompletions] Request caa875b8-cb9b-4eb4-b043-d2a9db7cfd70 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 468.3614719994366ms
+2025-07-22 16:01:24.257 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:01:24.727 [info] [fetchCompletions] Request 1df37737-2667-45b6-a4e1-f8f5d19ea4c4 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 403.3969470001757ms
+2025-07-22 16:01:25.044 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:01:25.072 [info] [streamChoices] solution 1 returned. finish reason: [stop]
+2025-07-22 16:01:25.118 [info] [streamChoices] solution 2 returned. finish reason: [stop]
+2025-07-22 16:01:25.249 [info] [ghostText] Filtered out solution matching next line
+2025-07-22 16:01:29.465 [info] [ghostText] Filtered out solution matching next line
+2025-07-22 16:02:19.897 [info] [fetchCompletions] Request b17c27a3-12de-4fb0-864d-b1ab4c1198dc at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 370.72331400215626ms
+2025-07-22 16:02:21.577 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:02:22.139 [info] [fetchCompletions] Request 14ff2513-12bd-434e-a734-358fcccca8c7 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 469.635261002928ms
+2025-07-22 16:02:23.356 [info] [fetchCompletions] Request a9ab764d-0552-45c8-8ed7-39ea6a92297d at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 374.6055539995432ms
+2025-07-22 16:02:23.506 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:02:24.099 [info] [fetchCompletions] Request 16d56491-6a33-4b57-a3f0-7f250b23a917 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 368.81177699938416ms
+2025-07-22 16:02:24.525 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-07-22 16:02:25.654 [info] [fetchCompletions] Request 94e70672-15a5-4513-867e-99418f2c6898 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 517.5374990031123ms
+2025-07-22 16:02:25.760 [info] [streamChoices] solution 2 returned. finish reason: [stop]
+2025-07-22 16:02:25.780 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:02:25.849 [info] [streamChoices] solution 1 returned. finish reason: [stop]
+2025-07-22 16:02:28.809 [info] [fetchCompletions] Request 6c0d537f-1cb3-4c87-a2db-0363b6670813 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 468.46028500050306ms
+2025-07-22 16:02:29.435 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:02:29.910 [info] [fetchCompletions] Request 159fa464-0203-4638-9a15-3cd7b923bb9e at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 374.507366001606ms
+2025-07-22 16:02:29.934 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:02:31.136 [info] [fetchCompletions] Request 23848a29-392f-4e6f-8102-57c77dc6f597 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 363.28211500123143ms
+2025-07-22 16:02:31.523 [error] [AsyncCompletionManager] [23848a29-392f-4e6f-8102-57c77dc6f597] Request errored with AbortError: The operation was aborted.
+    at EventTarget.abortHandler (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:106:17)
+    at EventTarget.[nodejs.internal.kHybridDispatch] (node:internal/event_target:831:20)
+    at EventTarget.dispatchEvent (node:internal/event_target:766:26)
+    at abortSignal (node:internal/abort_controller:370:10)
+    at AbortController.abort (node:internal/abort_controller:392:5)
+    at /home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/lib/src/networking.ts:237:19
+    at LH.invoke (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/node_modules/vscode-jsonrpc/lib/common/events.js:55:39)
+    at e.fire (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/node_modules/vscode-jsonrpc/lib/common/events.js:117:36)
+    at V8.cancel (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/node_modules/vscode-jsonrpc/lib/common/cancellation.js:41:31)
+    at MH.cancel (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/node_modules/vscode-jsonrpc/lib/common/cancellation.js:82:25)
+    at tc.cancelRequest (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/lib/src/ghostText/asyncCompletions.ts:257:41)
+    at tc.getFirstMatchingRequest (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/lib/src/ghostText/asyncCompletions.ts:234:22)
+    at /home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/lib/src/ghostText/ghostText.ts:986:22
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at processTimers (node:internal/timers:516:9) {
+  type: 'aborted',
+  _name: 'AbortError'
+}
+2025-07-22 16:02:32.262 [info] [fetchCompletions] Request 471d0c46-8c74-401d-9484-047680a061ac at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 638.998029999435ms
+2025-07-22 16:02:32.446 [error] [AsyncCompletionManager] [471d0c46-8c74-401d-9484-047680a061ac] Request errored with AbortError: The operation was aborted.
+    at EventTarget.abortHandler (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:106:17)
+    at EventTarget.[nodejs.internal.kHybridDispatch] (node:internal/event_target:831:20)
+    at EventTarget.dispatchEvent (node:internal/event_target:766:26)
+    at abortSignal (node:internal/abort_controller:370:10)
+    at AbortController.abort (node:internal/abort_controller:392:5)
+    at /home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/lib/src/networking.ts:237:19
+    at LH.invoke (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/node_modules/vscode-jsonrpc/lib/common/events.js:55:39)
+    at e.fire (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/node_modules/vscode-jsonrpc/lib/common/events.js:117:36)
+    at V8.cancel (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/node_modules/vscode-jsonrpc/lib/common/cancellation.js:41:31)
+    at MH.cancel (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/node_modules/vscode-jsonrpc/lib/common/cancellation.js:82:25)
+    at tc.cancelRequest (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/lib/src/ghostText/asyncCompletions.ts:257:41)
+    at tc.getFirstMatchingRequest (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/lib/src/ghostText/asyncCompletions.ts:234:22)
+    at /home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/lib/src/ghostText/ghostText.ts:986:22 {
+  type: 'aborted',
+  _name: 'AbortError'
+}
+2025-07-22 16:02:33.062 [info] [fetchCompletions] Request e8c5f704-3da2-4ef7-97ad-7ef764c47d8a at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 584.629034999758ms
+2025-07-22 16:02:33.207 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:02:33.648 [info] [fetchCompletions] Request 54476666-835f-46d0-8738-d4d405c8b781 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 331.7561640031636ms
+2025-07-22 16:02:33.865 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-07-22 16:02:34.915 [info] [fetchCompletions] Request e76223d1-23d3-4b04-9c6a-740f8193dc41 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 325.95837200060487ms
+2025-07-22 16:02:35.103 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:02:35.824 [info] [fetchCompletions] Request 5381e7f1-e09b-4910-8813-9b9647924bfc at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 604.1212639994919ms
+2025-07-22 16:02:35.858 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:02:36.936 [info] [fetchCompletions] Request 78c71e84-4b2d-4160-86b4-d75714282cf1 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 452.22661999985576ms
+2025-07-22 16:02:37.041 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:02:37.046 [info] [streamChoices] solution 1 returned. finish reason: [stop]
+2025-07-22 16:02:37.198 [info] [streamChoices] solution 2 returned. finish reason: [stop]
+2025-07-22 16:02:37.846 [info] [fetchCompletions] Request 924835cd-f951-4036-a55b-e83005698680 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 539.5337570011616ms
+2025-07-22 16:02:38.462 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-07-22 16:02:39.889 [info] [fetchCompletions] Request d486ed0e-9ce1-46c7-b05f-2a308016cf5e at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 439.8624610006809ms
+2025-07-22 16:02:39.974 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:02:41.512 [info] [fetchCompletions] Request 8414affc-ad93-4c56-bbe9-efe2277f3fd7 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 485.74618599936366ms
+2025-07-22 16:02:41.931 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:02:42.023 [info] [ghostText] Filtered out solution matching next line
+2025-07-22 16:02:56.696 [info] [fetchCompletions] Request da12b003-a26b-4b03-b9f8-c51dff26d24e at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 378.60876899957657ms
+2025-07-22 16:02:57.527 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:02:57.573 [info] [ghostText] Filtered out solution matching next line
+2025-07-22 16:02:58.731 [info] [fetchCompletions] Request ff21f69e-481a-4bc1-b9f2-08b45baae395 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 648.6057380028069ms
+2025-07-22 16:02:59.264 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:02:59.390 [info] [ghostText] Filtered out solution matching next line
+2025-07-22 16:02:59.951 [info] [fetchCompletions] Request 2eab1895-1e3e-45c8-b4b3-f60582426216 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 549.403666999191ms
+2025-07-22 16:03:00.657 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:03:07.613 [info] [fetchCompletions] Request 2bedf605-f6ca-4506-9be2-edc281b226cb at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 750.7902220003307ms
+2025-07-22 16:03:08.731 [info] [fetchCompletions] Request 39c9883c-0031-4e63-85de-2c74063c58a1 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 481.4173209965229ms
+2025-07-22 16:03:09.102 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:03:09.485 [info] [ghostText] Filtered out solution matching next line
+2025-07-22 16:03:13.503 [info] [fetchCompletions] Request a4f565dd-41c1-442c-8b24-1861a15d7535 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 451.9671950004995ms
+2025-07-22 16:03:13.679 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:03:13.841 [info] [ghostText] Filtered out solution matching next line
+2025-07-22 16:03:22.282 [info] [ghostText] Filtered out solution matching next line
+2025-07-22 16:03:54.138 [info] [fetchCompletions] Request c44da95f-b01c-42a6-84eb-fc7c47a7f180 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 434.67165100201964ms
+2025-07-22 16:03:54.684 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:03:55.247 [info] [fetchCompletions] Request f0e25ff7-d395-4af1-bea4-c9f4e165c0d8 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 438.04615600034595ms
+2025-07-22 16:03:55.365 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-07-22 16:04:08.149 [info] [fetchCompletions] Request aacf4f19-3cf9-4085-8a86-e6f6e8d3ff50 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 511.68165399879217ms
+2025-07-22 16:04:08.213 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:04:08.829 [info] [fetchCompletions] Request 2ec01e07-4dfd-4cbd-91b8-bd94396d079d at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 496.37305000051856ms
+2025-07-22 16:04:08.900 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-07-22 16:04:09.537 [info] [fetchCompletions] Request 8ae188bf-66d2-4839-8851-6333870e6bac at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 346.607797998935ms
+2025-07-22 16:04:09.664 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:04:09.678 [info] [streamChoices] solution 1 returned. finish reason: [stop]
+2025-07-22 16:04:09.690 [info] [streamChoices] solution 2 returned. finish reason: [stop]
+2025-07-22 16:05:06.310 [info] [fetchCompletions] Request 87c1b82f-0a1c-4835-8447-f2b32bd897f1 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 597.2442409992218ms
+2025-07-22 16:05:06.329 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:05:07.050 [info] [fetchCompletions] Request ff9fa2bf-c21f-430a-b5d5-8966e4781000 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 517.3640699982643ms
+2025-07-22 16:05:07.112 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:05:08.936 [info] [fetchCompletions] Request 0204ab3d-a415-494e-9fd6-9b06a90d325e at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 1629.0220619998872ms
+2025-07-22 16:05:08.955 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-07-22 16:05:08.969 [info] [ghostText] Filtered out solution matching next line
+2025-07-22 16:05:09.470 [info] [ghostText] Filtered out solution matching next line
+2025-07-22 16:05:22.685 [info] [fetchCompletions] Request 24f8e1c7-be55-4da0-9e26-24c88b16230d at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 546.3448260016739ms
+2025-07-22 16:05:23.266 [info] [fetchCompletions] Request 1b000e53-6423-4803-9673-5f91caabef91 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 490.92948799952865ms
+2025-07-22 16:05:24.455 [info] [fetchCompletions] Request 37dd0bcc-c1d7-4e1f-ae4f-195e603b87b6 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 516.8642640002072ms
+2025-07-22 16:05:24.493 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:05:25.155 [info] [fetchCompletions] Request f554f401-8dcf-4bf9-bf45-df530128a8c9 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 529.0629939995706ms
+2025-07-22 16:05:25.471 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-07-22 16:05:25.498 [info] [ghostText] Filtered out solution matching next line
+2025-07-22 16:05:35.765 [info] [ghostText] Filtered out solution matching next line
+2025-07-22 16:05:37.914 [info] [fetchCompletions] Request a15890b6-b526-4804-a935-68a5694fba8c at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 907.8850490003824ms
+2025-07-22 16:05:38.114 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:05:38.737 [info] [fetchCompletions] Request 71221aae-b25f-4910-b38a-5ba4c63fc065 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 386.71805299818516ms
+2025-07-22 16:05:39.160 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-07-22 16:05:39.185 [info] [ghostText] Filtered out solution matching next line
+2025-07-22 16:05:46.264 [info] [fetchCompletions] Request 530f6107-c86c-464e-a5f1-648dca54aa9a at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 432.5180339999497ms
+2025-07-22 16:05:46.295 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:05:46.771 [info] [fetchCompletions] Request 4cad53ca-1670-4a58-9797-77ab179d8072 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 327.29125200212ms
+2025-07-22 16:05:46.970 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-07-22 16:05:47.000 [info] [ghostText] Filtered out solution matching next line
+2025-07-22 16:05:51.944 [info] [fetchCompletions] Request 96aaf28f-1501-4c82-a5a4-d4f05ac540e7 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 1356.886248998344ms
+2025-07-22 16:05:51.963 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:05:52.898 [info] [fetchCompletions] Request f2125771-31ff-4c7e-abb8-683fe6f2ea27 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 511.10907600075006ms
+2025-07-22 16:05:53.063 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-07-22 16:05:53.078 [info] [ghostText] Filtered out solution matching next line
+2025-07-22 16:05:59.259 [info] [fetchCompletions] Request e91bcaf6-5868-416e-bbf2-4fcbd740a8de at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 359.5540349967778ms
+2025-07-22 16:05:59.337 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:05:59.952 [info] [fetchCompletions] Request 80e72dab-6686-46d1-84cb-b2db70d92040 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 438.5606110021472ms
+2025-07-22 16:06:00.181 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-07-22 16:06:00.208 [info] [ghostText] Filtered out solution matching next line
+2025-07-22 16:07:00.702 [info] [fetchCompletions] Request cef525ec-c63a-452a-88de-512a97f77bb6 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 495.0015299990773ms
+2025-07-22 16:07:00.768 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:07:33.973 [info] [fetchCompletions] Request e297e137-777b-4757-8f51-d4954cac6141 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 934.6371329985559ms
+2025-07-22 16:07:34.785 [info] [fetchCompletions] Request ed95e82f-99f0-403a-bdc5-b5e1cecdcfe0 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 872.2899850010872ms
+2025-07-22 16:07:35.011 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:07:35.618 [info] [fetchCompletions] Request 24405382-f7ef-4f12-9a56-b045461ef7e7 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 455.3217520006001ms
+2025-07-22 16:07:35.660 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:07:39.717 [info] [fetchCompletions] Request 39493724-0730-4dda-84dd-c6a79ad6723b at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 361.46411399915814ms
+2025-07-22 16:07:39.795 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:08:08.374 [info] [fetchCompletions] Request 0f04020b-5f5b-44ee-a48e-141c1e656c9a at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 451.8120280019939ms
+2025-07-22 16:08:08.383 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:08:10.193 [info] [fetchCompletions] Request f3722e2c-cf3c-4cd7-afc8-7b6e806a2c7b at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 999.5694070011377ms
+2025-07-22 16:08:10.216 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:08:10.876 [info] [fetchCompletions] Request 103ea42e-a622-4369-8252-abf07c489695 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 531.3845870010555ms
+2025-07-22 16:08:11.031 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-07-22 16:08:11.049 [info] [ghostText] Filtered out solution matching next line
+2025-07-22 16:08:41.463 [info] [fetchCompletions] Request 54fe0022-f59b-4aae-9180-58f71727cd76 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 522.0555219985545ms
+2025-07-22 16:08:41.552 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:08:42.479 [info] [fetchCompletions] Request dd4e0cb4-37de-4bf5-8cb4-ac270c315e3a at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 434.4722840003669ms
+2025-07-22 16:08:42.557 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:08:44.034 [info] [fetchCompletions] Request 3e169758-edb2-4fbc-b45e-7f3aa1337483 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 459.1503779999912ms
+2025-07-22 16:08:44.096 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:08:45.636 [info] [fetchCompletions] Request aed3e0bd-77d1-46da-a3ba-e65f14e9ad6f at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 373.90165900066495ms
+2025-07-22 16:08:45.695 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:10:38.333 [info] [fetchCompletions] Request 0cd9a557-c26d-4f0c-9983-ee33066f4426 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 500.23431799933314ms
+2025-07-22 16:10:39.376 [info] [fetchCompletions] Request 15b0c1aa-5183-4ea8-8960-01bd90390be2 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 851.6841960027814ms
+2025-07-22 16:10:40.154 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:10:41.399 [info] [fetchCompletions] Request f3d132fa-58ac-4e31-9475-37df3e22ee3c at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 943.4304330013692ms
+2025-07-22 16:10:41.981 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-07-22 16:10:42.037 [info] [ghostText] Filtered out solution matching next line
+2025-07-22 16:10:44.274 [info] [fetchCompletions] Request 73f5ada8-b30b-4dc5-9c92-e7060c6b394d at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 534.9338699989021ms
+2025-07-22 16:10:44.289 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:10:44.884 [info] [fetchCompletions] Request f956a559-6dc2-4887-bc96-63aff25342b9 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 487.0070859976113ms
+2025-07-22 16:10:45.598 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-07-22 16:10:45.626 [info] [ghostText] Filtered out solution matching next line
+2025-07-22 16:11:03.575 [info] [ghostText] Filtered out solution matching next line
+2025-07-22 16:11:44.841 [info] [fetchCompletions] Request fa308b81-4e52-4d15-a559-c23bbab2c41e at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 456.271522000432ms
+2025-07-22 16:11:44.903 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:11:48.238 [info] [fetchCompletions] Request 77a84320-9d86-4dd8-a0fd-b43fa2335f6b at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 415.8985750004649ms
+2025-07-22 16:11:48.340 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:13:46.283 [info] [fetchCompletions] Request 5ce2c8c0-a6c7-4642-8072-790c997cfd89 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 413.543969001621ms
+2025-07-22 16:13:46.391 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:13:47.046 [info] [fetchCompletions] Request c590a323-6661-43a9-98e0-d0a0c5c28cd6 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 459.3312820009887ms
+2025-07-22 16:13:47.455 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-07-22 16:13:49.406 [info] [fetchCompletions] Request b4fcb413-a4e9-4cb4-bf39-c534223bf9c1 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 496.6080089993775ms
+2025-07-22 16:13:49.479 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:18:24.954 [info] [fetchCompletions] Request b4f82442-12ef-4bf9-9c56-7a6d4ee39e9b at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 1379.9381879977882ms
+2025-07-22 16:18:25.245 [info] [fetchCompletions] Request 9cc7153a-ba63-46d9-bf98-09c11fc67791 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 787.6146109998226ms
+2025-07-22 16:18:26.229 [info] [fetchCompletions] Request 10eed1ff-a4d0-4546-9b02-60170ccfe3c1 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 428.48845299705863ms
+2025-07-22 16:18:27.103 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:18:27.596 [info] [fetchCompletions] Request c72845d8-454c-4d47-b88f-2cf1e58650b7 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 381.4185429997742ms
+2025-07-22 16:18:27.619 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:18:52.798 [info] [fetchCompletions] Request 94290196-8823-4e89-bc09-12c215ba4ac4 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 476.3923210017383ms
+2025-07-22 16:18:52.836 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:18:53.408 [info] [fetchCompletions] Request a59df63b-1ded-4427-87fd-30e99e977fb2 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 447.82035100087523ms
+2025-07-22 16:18:53.708 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-07-22 16:18:56.535 [info] [fetchCompletions] Request 55053cdc-d437-43fe-8f25-eed2bc25a931 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 543.8570160008967ms
+2025-07-22 16:18:56.582 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:18:57.341 [info] [fetchCompletions] Request 987736f9-3816-4c19-b572-ee35727d0cbc at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 708.2400170005858ms
+2025-07-22 16:18:57.459 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:18:59.282 [info] [fetchCompletions] Request 348b3ee8-b98d-4f58-92af-c124db9d139c at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 664.7129950001836ms
+2025-07-22 16:18:59.332 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:19:13.790 [info] [fetchCompletions] Request e3d8fa8e-ff8a-4d05-9f48-753c05c1f293 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 603.9935400001705ms
+2025-07-22 16:19:14.069 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:19:14.437 [info] [fetchCompletions] Request b36641a7-00cb-486b-8749-73c69b37ea9c at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 429.09442400187254ms
+2025-07-22 16:19:15.018 [info] [fetchCompletions] Request 5a95b2cc-2300-44ed-a4cd-ce0c18a29f00 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 494.7221510000527ms
+2025-07-22 16:19:15.072 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:19:15.157 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:19:16.285 [info] [fetchCompletions] Request 10c6a82e-1ddc-4c81-a815-80bc6ef63f70 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 559.0570720024407ms
+2025-07-22 16:19:16.703 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:19:18.378 [info] [fetchCompletions] Request dd54ccd6-d27a-4c9d-be9a-eceb886be580 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 1119.9127909988165ms
+2025-07-22 16:19:18.432 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:19:19.167 [info] [fetchCompletions] Request 3a1f501e-551d-47f3-b228-f377af97ff1f at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 693.2440729998052ms
+2025-07-22 16:19:19.292 [info] [fetchCompletions] Request 2a520c92-bbc3-4153-8d6a-ed7825f883ca at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 498.01278599724174ms
+2025-07-22 16:19:19.341 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:19:19.416 [info] [streamChoices] solution 1 returned. finish reason: [stop]
+2025-07-22 16:19:19.433 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:19:19.453 [info] [streamChoices] solution 2 returned. finish reason: [stop]
+2025-07-22 16:20:03.171 [info] [fetchCompletions] Request b1462eec-2acb-4ab9-ba1f-6f3a7d5dfd97 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 548.8541560024023ms
+2025-07-22 16:20:03.994 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:20:04.742 [info] [fetchCompletions] Request 65bc5352-49a9-4fe6-8cbc-fec9477117bb at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 478.83094500005245ms
+2025-07-22 16:20:05.117 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:20:05.919 [info] [fetchCompletions] Request 05f4caf9-8de8-4457-9c2a-167f9a6d5b84 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 709.6038850024343ms
+2025-07-22 16:20:05.948 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:20:08.164 [info] [fetchCompletions] Request 9d045213-968d-4f7f-a8ef-c0c196c08592 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 419.5935809984803ms
+2025-07-22 16:20:08.232 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:20:09.505 [info] [fetchCompletions] Request db8afa65-62c8-44bc-9abd-613adad04946 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 721.1894490011036ms
+2025-07-22 16:20:09.570 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:20:09.588 [info] [ghostText] Filtered out solution matching next line
+2025-07-22 16:20:10.544 [info] [fetchCompletions] Request 3595a397-63b6-4396-8aed-d7329e3e078a at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 663.6345370002091ms
+2025-07-22 16:20:10.611 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:20:11.666 [info] [fetchCompletions] Request 1c7d3ceb-f529-4a9e-a34b-48f7016f15eb at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 906.5049550011754ms
+2025-07-22 16:20:11.711 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-07-22 16:20:15.212 [info] [fetchCompletions] Request 9b74fcf1-cde3-4b36-a3b4-1474e8c45d20 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 483.4701710008085ms
+2025-07-22 16:20:15.703 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:20:16.291 [info] [fetchCompletions] Request ce7a66e2-8aaa-4a4b-b144-86a6cb48cc16 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 437.27115900069475ms
+2025-07-22 16:20:16.303 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:22:36.381 [info] [fetchCompletions] Request fde20b3d-9e08-438c-80dc-ff61158e9705 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 1544.8179289996624ms
+2025-07-22 16:22:36.425 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:22:37.649 [info] [fetchCompletions] Request 76a5e951-ffce-41cc-863d-e03a03249a54 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 1049.663956001401ms
+2025-07-22 16:22:37.673 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-07-22 16:22:40.912 [info] [fetchCompletions] Request 3468b47a-1a37-4add-b395-ab8aad3f31b8 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 618.189931999892ms
+2025-07-22 16:22:41.121 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-07-22 16:24:01.215 [info] [fetchCompletions] Request 96f1651b-b343-4108-b9ff-78810e520553 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 2978.7748399972916ms
+2025-07-22 16:24:01.251 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:24:02.888 [info] [fetchCompletions] Request 14cd023f-0dbb-4642-9854-542865828b61 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 855.7935939989984ms
+2025-07-22 16:24:02.967 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:24:03.025 [info] [ghostText] Filtered out solution matching next line
+2025-07-22 16:24:04.785 [info] [fetcher] Using Helix fetcher.
+2025-07-22 16:24:04.788 [info] [code-referencing] Public code references are enabled.
+2025-07-22 16:24:04.798 [info] [fetcher] Using Helix fetcher.
+2025-07-22 16:24:42.753 [info] [fetchCompletions] Request fe5c8ff7-3450-45bf-b12b-3fe6c8b52293 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 541.2222229987383ms
+2025-07-22 16:24:43.614 [info] [fetchCompletions] Request 33b2aed0-7a7c-4fcf-87bc-9feb91c3f710 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 493.43993899971247ms
+2025-07-22 16:24:44.046 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:24:44.617 [info] [fetchCompletions] Request c94a9ce7-fd1c-40b5-a499-68afa5a216df at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 418.7202199995518ms
+2025-07-22 16:24:44.661 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:24:47.029 [info] [fetchCompletions] Request 49cfdb66-0c71-4b38-ad94-3bacba6dc024 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 382.4992869980633ms
+2025-07-22 16:24:47.043 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:28:16.910 [info] [fetchCompletions] Request 01923c4b-9dd4-49e3-8c74-c711787e2007 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 1630.559453997761ms
+2025-07-22 16:28:16.942 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:28:17.533 [info] [fetchCompletions] Request 717527fa-e767-4db8-afcd-d9d488f6b7d0 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 510.3686500005424ms
+2025-07-22 16:28:17.739 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-07-22 16:28:26.753 [info] [fetchCompletions] Request eebb1520-96ac-4bed-b156-859bdd8dfa31 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 1183.7056399993598ms
+2025-07-22 16:28:26.776 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:28:27.778 [info] [fetchCompletions] Request c6e529f0-9d77-42c2-9df4-a33b0a4e47e4 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 853.335546001792ms
+2025-07-22 16:28:27.901 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:28:28.513 [info] [fetchCompletions] Request a3da992c-3cb6-41ac-a83d-5f1b7baf5f0b at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 1295.7714609988034ms
+2025-07-22 16:28:28.776 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-07-22 16:28:31.542 [info] [fetchCompletions] Request 0873af31-0efd-40e3-a6a5-7330d7a96ab0 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 705.4682720005512ms
+2025-07-22 16:28:31.789 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-07-22 16:28:34.594 [info] [fetchCompletions] Request f25829c9-cb7e-4d01-be08-4689dcfd6dca at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 538.1162979975343ms
+2025-07-22 16:28:34.709 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-07-22 16:29:24.686 [info] [fetchCompletions] Request bff80f5c-e789-4986-97fb-b13d775c0178 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 520.6962600015104ms
+2025-07-22 16:29:24.909 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:29:25.577 [info] [fetchCompletions] Request 946409ee-5d4f-43ba-bfbd-57b62dfc73b8 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 459.2818839997053ms
+2025-07-22 16:29:25.674 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-07-22 16:29:27.234 [info] [fetchCompletions] Request ef04d485-d69c-43db-b07a-2ca524bf3cc8 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 448.33975099772215ms
+2025-07-22 16:29:27.947 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:29:28.916 [info] [fetchCompletions] Request eb6bf172-a7fb-4f11-82b1-f1925383d5aa at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 558.6012149974704ms
+2025-07-22 16:29:29.366 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-07-22 16:29:39.665 [info] [fetchCompletions] Request 03fe0cef-bc9f-4553-b663-6db651e475fe at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 461.15399799868464ms
+2025-07-22 16:29:40.685 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:30:09.014 [info] [fetchCompletions] Request e959abb2-4de2-425d-ad4c-d91bbfff07d5 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 428.4607199989259ms
+2025-07-22 16:30:09.033 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:30:09.554 [info] [fetchCompletions] Request 4920dc46-e2c4-4715-83ee-b921ff17fda9 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 413.6887699998915ms
+2025-07-22 16:30:09.617 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-07-22 16:30:11.405 [info] [fetchCompletions] Request 5e0927cf-08a6-4f1c-87b4-9ce0fd21bf62 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 571.4753590002656ms
+2025-07-22 16:30:11.434 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:30:12.208 [info] [fetchCompletions] Request 1e23588b-bb9e-4128-abbd-69a6992b04eb at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 544.720922999084ms
+2025-07-22 16:30:12.226 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-07-22 16:30:15.748 [info] [fetchCompletions] Request 359afb39-86f2-4936-996a-b2e5e57b81e9 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 352.7506319992244ms
+2025-07-22 16:30:15.864 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-07-22 16:30:48.174 [info] [fetchCompletions] Request 2d037d42-840d-4a8f-8894-cefff4d36014 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 965.2517780028284ms
+2025-07-22 16:30:48.854 [error] [AsyncCompletionManager] [2d037d42-840d-4a8f-8894-cefff4d36014] Request errored with AbortError: The operation was aborted.
+    at EventTarget.abortHandler (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:106:17)
+    at EventTarget.[nodejs.internal.kHybridDispatch] (node:internal/event_target:831:20)
+    at EventTarget.dispatchEvent (node:internal/event_target:766:26)
+    at abortSignal (node:internal/abort_controller:370:10)
+    at AbortController.abort (node:internal/abort_controller:392:5)
+    at /home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/lib/src/networking.ts:237:19
+    at LH.invoke (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/node_modules/vscode-jsonrpc/lib/common/events.js:55:39)
+    at e.fire (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/node_modules/vscode-jsonrpc/lib/common/events.js:117:36)
+    at V8.cancel (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/node_modules/vscode-jsonrpc/lib/common/cancellation.js:41:31)
+    at MH.cancel (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/node_modules/vscode-jsonrpc/lib/common/cancellation.js:82:25)
+    at tc.cancelRequest (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/lib/src/ghostText/asyncCompletions.ts:257:41)
+    at tc.getFirstMatchingRequest (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/lib/src/ghostText/asyncCompletions.ts:234:22)
+    at /home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/lib/src/ghostText/ghostText.ts:986:22 {
+  type: 'aborted',
+  _name: 'AbortError'
+}
+2025-07-22 16:30:49.303 [info] [fetchCompletions] Request 3e764a94-7a79-41ad-a0e3-e7b6f8dab998 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 431.76728700101376ms
+2025-07-22 16:30:50.802 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:30:51.292 [info] [fetchCompletions] Request dab00feb-b6b6-4299-ae9f-244320df07cb at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 352.7035539969802ms
+2025-07-22 16:30:51.311 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:30:53.092 [info] [fetchCompletions] Request 7657336f-2e18-4cd7-9360-ea5538ffad25 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 334.7200429998338ms
+2025-07-22 16:30:53.124 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:32:09.848 [info] [fetchCompletions] Request 2f15c2a6-6962-4c82-8ff3-c15b273bda3c at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 573.732675999403ms
+2025-07-22 16:32:10.299 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:32:11.305 [info] [fetchCompletions] Request 43fef055-1aa9-437e-ac72-e963abe6d3b7 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 832.0543259978294ms
+2025-07-22 16:32:11.314 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-07-22 16:32:13.468 [info] [fetchCompletions] Request aa41c757-e156-4d2a-84f1-0a6d74d5857f at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 331.48759699985385ms
+2025-07-22 16:32:13.678 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-07-22 16:32:16.523 [info] [fetchCompletions] Request eda351a3-8a88-4662-be0b-c7cbc4fcf58a at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 592.1622149981558ms
+2025-07-22 16:32:16.537 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:32:16.546 [info] [ghostText] Filtered out solution matching next line
+2025-07-22 16:32:42.339 [info] [fetchCompletions] Request 8acfdc96-4743-4dcf-b8e3-024f143b3119 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 509.3781899996102ms
+2025-07-22 16:32:42.563 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:32:43.123 [info] [fetchCompletions] Request ab343dc1-f8c1-4783-93a3-690fdcc91282 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 344.06527499854565ms
+2025-07-22 16:32:43.181 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:32:43.193 [info] [ghostText] Filtered out solution matching next line
+2025-07-22 16:32:44.271 [info] [ghostText] Filtered out solution matching next line
+2025-07-22 16:32:51.213 [info] [fetchCompletions] Request b94a07a3-698a-486a-9a17-dbfe9bfaa032 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 399.3868949972093ms
+2025-07-22 16:32:51.279 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:33:18.980 [info] [fetchCompletions] Request 43ef22e1-64ea-4dc1-8203-5ad0ea431085 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 386.2444540001452ms
+2025-07-22 16:33:19.077 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:33:19.605 [info] [fetchCompletions] Request fdac0713-c93f-410a-a255-0ce6cd6c40bf at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 448.1266960017383ms
+2025-07-22 16:33:19.814 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-07-22 16:33:20.875 [info] [fetchCompletions] Request 2c7d65fe-8343-4bae-88a0-b79bf304ff3d at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 336.1551120020449ms
+2025-07-22 16:33:20.968 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-07-22 16:33:22.642 [info] [fetchCompletions] Request 6801ea43-6cdd-410a-87ba-ee8302c2b0aa at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 415.7441240027547ms
+2025-07-22 16:33:22.697 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:33:22.711 [info] [ghostText] Filtered out solution matching next line
+2025-07-22 16:33:23.725 [info] [ghostText] Filtered out solution matching next line
+2025-07-22 16:36:16.188 [info] [fetchCompletions] Request 095ac0ba-f8a0-40f9-a385-02c0dbc220cc at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 1174.2318850010633ms
+2025-07-22 16:36:17.017 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:36:17.648 [info] [fetchCompletions] Request 48bc654d-50dd-4ea6-ada8-ee97b9c03e04 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 464.7279359996319ms
+2025-07-22 16:36:17.683 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:36:18.560 [info] [fetchCompletions] Request e5a113d3-5f80-462b-94b5-a36e53fac622 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 425.1258759982884ms
+2025-07-22 16:36:19.148 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:36:19.716 [info] [fetchCompletions] Request ba2806ab-ed55-481f-be6d-4a9894590b13 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 412.46522399783134ms
+2025-07-22 16:36:19.748 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:36:20.653 [info] [fetchCompletions] Request 0430df6c-c3ef-44a3-99f9-ef33cba0fc57 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 378.88532999902964ms
+2025-07-22 16:36:20.743 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:36:20.758 [info] [streamChoices] solution 2 returned. finish reason: [stop]
+2025-07-22 16:36:20.779 [info] [streamChoices] solution 1 returned. finish reason: [stop]
+2025-07-22 16:36:21.529 [info] [fetchCompletions] Request 464f1c42-fb27-420a-9ef5-e711793d5651 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 544.5963599979877ms
+2025-07-22 16:36:21.552 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:36:33.806 [info] [fetchCompletions] Request e4442644-cd00-4248-a3b8-fd5ebbc0ef05 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 502.0530369989574ms
+2025-07-22 16:36:34.989 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:52:52.673 [info] [fetcher] Using Helix fetcher.
+2025-07-22 16:52:52.674 [info] [code-referencing] Public code references are enabled.
+2025-07-22 16:52:52.691 [info] [fetcher] Using Helix fetcher.
+2025-07-22 16:52:53.880 [info] [fetchCompletions] Request 6b69410c-d159-4fb3-a7c0-97936ce3895a at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 1016.0153849981725ms
+2025-07-22 16:52:53.924 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:53:53.621 [info] [fetchCompletions] Request dbd3df99-1d80-420f-a528-6023aeeac97b at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 643.8378100022674ms
+2025-07-22 16:53:53.689 [error] [AsyncCompletionManager] [dbd3df99-1d80-420f-a528-6023aeeac97b] Request errored with AbortError: The operation was aborted.
+    at EventTarget.abortHandler (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:106:17)
+    at EventTarget.[nodejs.internal.kHybridDispatch] (node:internal/event_target:831:20)
+    at EventTarget.dispatchEvent (node:internal/event_target:766:26)
+    at abortSignal (node:internal/abort_controller:370:10)
+    at AbortController.abort (node:internal/abort_controller:392:5)
+    at /home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/lib/src/networking.ts:237:19
+    at LH.invoke (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/node_modules/vscode-jsonrpc/lib/common/events.js:55:39)
+    at e.fire (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/node_modules/vscode-jsonrpc/lib/common/events.js:117:36)
+    at V8.cancel (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/node_modules/vscode-jsonrpc/lib/common/cancellation.js:41:31)
+    at MH.cancel (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/node_modules/vscode-jsonrpc/lib/common/cancellation.js:82:25)
+    at tc.cancelRequest (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/lib/src/ghostText/asyncCompletions.ts:257:41)
+    at tc.getFirstMatchingRequest (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/lib/src/ghostText/asyncCompletions.ts:234:22)
+    at /home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/lib/src/ghostText/ghostText.ts:986:22 {
+  type: 'aborted',
+  _name: 'AbortError'
+}
+2025-07-22 16:53:54.188 [info] [fetchCompletions] Request 63f0b734-95ba-4def-990f-ac74621c51d0 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 480.50041199848056ms
+2025-07-22 16:53:54.440 [error] [AsyncCompletionManager] [63f0b734-95ba-4def-990f-ac74621c51d0] Request errored with AbortError: The operation was aborted.
+    at EventTarget.abortHandler (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:106:17)
+    at EventTarget.[nodejs.internal.kHybridDispatch] (node:internal/event_target:831:20)
+    at EventTarget.dispatchEvent (node:internal/event_target:766:26)
+    at abortSignal (node:internal/abort_controller:370:10)
+    at AbortController.abort (node:internal/abort_controller:392:5)
+    at /home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/lib/src/networking.ts:237:19
+    at LH.invoke (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/node_modules/vscode-jsonrpc/lib/common/events.js:55:39)
+    at e.fire (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/node_modules/vscode-jsonrpc/lib/common/events.js:117:36)
+    at V8.cancel (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/node_modules/vscode-jsonrpc/lib/common/cancellation.js:41:31)
+    at MH.cancel (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/node_modules/vscode-jsonrpc/lib/common/cancellation.js:82:25)
+    at tc.cancelRequest (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/lib/src/ghostText/asyncCompletions.ts:257:41)
+    at tc.getFirstMatchingRequest (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/lib/src/ghostText/asyncCompletions.ts:234:22)
+    at /home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/lib/src/ghostText/ghostText.ts:986:22 {
+  type: 'aborted',
+  _name: 'AbortError'
+}
+2025-07-22 16:53:54.879 [info] [fetchCompletions] Request f9f6f787-932f-4432-987f-caea6c88a823 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 427.0376520007849ms
+2025-07-22 16:53:55.002 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:54:07.297 [info] [fetchCompletions] Request 2c0f95b0-0e42-4e39-b0de-3dd1e0244624 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 751.1474190019071ms
+2025-07-22 16:54:07.307 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:54:07.771 [info] [fetchCompletions] Request 818c0632-bd97-4093-a72c-ac53aa661346 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 389.7478720024228ms
+2025-07-22 16:54:07.970 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:54:14.091 [info] [fetchCompletions] Request 86a96b22-eb18-4817-9edc-73a0266296bb at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 1019.4538640007377ms
+2025-07-22 16:54:14.110 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:54:14.685 [info] [fetchCompletions] Request 541d1320-f046-455c-a651-e396fd8d573a at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 509.5104960016906ms
+2025-07-22 16:54:14.993 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:54:15.017 [info] [fetchCompletions] Request 74babdc1-a079-4afd-9e91-a776fb2b1381 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 587.9865659996867ms
+2025-07-22 16:54:15.095 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-07-22 16:54:21.041 [info] [fetchCompletions] Request a00eea6f-d84b-4fa7-b935-ae0db21d0f16 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 476.2781840004027ms
+2025-07-22 16:54:21.098 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:54:21.774 [info] [fetchCompletions] Request 3cbd0f43-0b35-4501-8798-0c343fa475b5 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 596.264740999788ms
+2025-07-22 16:54:21.826 [error] [AsyncCompletionManager] [3cbd0f43-0b35-4501-8798-0c343fa475b5] Request errored with AbortError: The operation was aborted.
+    at EventTarget.abortHandler (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:106:17)
+    at EventTarget.[nodejs.internal.kHybridDispatch] (node:internal/event_target:831:20)
+    at EventTarget.dispatchEvent (node:internal/event_target:766:26)
+    at abortSignal (node:internal/abort_controller:370:10)
+    at AbortController.abort (node:internal/abort_controller:392:5)
+    at /home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/lib/src/networking.ts:237:19
+    at LH.invoke (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/node_modules/vscode-jsonrpc/lib/common/events.js:55:39)
+    at e.fire (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/node_modules/vscode-jsonrpc/lib/common/events.js:117:36)
+    at V8.cancel (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/node_modules/vscode-jsonrpc/lib/common/cancellation.js:41:31)
+    at MH.cancel (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/node_modules/vscode-jsonrpc/lib/common/cancellation.js:82:25)
+    at tc.cancelRequest (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/lib/src/ghostText/asyncCompletions.ts:257:41)
+    at tc.getFirstMatchingRequest (/home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/lib/src/ghostText/asyncCompletions.ts:234:22)
+    at /home/ramijaebr/.vscode/extensions/github.copilot-1.344.0/lib/src/ghostText/ghostText.ts:986:22 {
+  type: 'aborted',
+  _name: 'AbortError'
+}
+2025-07-22 16:54:22.228 [info] [fetchCompletions] Request 4219adb4-b1fe-4970-92d7-71f05f622799 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 391.4631970003247ms
+2025-07-22 16:54:22.319 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:54:22.964 [info] [fetchCompletions] Request bce2624d-befe-4f76-90cb-c619018d886b at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 533.9577959999442ms
+2025-07-22 16:54:23.112 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-07-22 16:54:26.236 [info] [fetchCompletions] Request 1e92b047-ff52-4604-b058-9153fc821da4 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 453.05835800245404ms
+2025-07-22 16:54:26.462 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-07-22 16:55:10.043 [info] [fetchCompletions] Request 6be0aa69-e8bf-4677-a2b9-6ffcf8311155 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 533.6350170001388ms
+2025-07-22 16:55:10.061 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:55:11.113 [info] [fetchCompletions] Request c359eba3-271c-4e41-96e7-a753d60db764 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 572.6135019995272ms
+2025-07-22 16:55:11.163 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:55:11.943 [info] [fetchCompletions] Request 63d3c057-b8bb-4c10-bb16-5783fb3ac5b8 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 629.3365259990096ms
+2025-07-22 16:55:12.053 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:55:15.902 [info] [fetchCompletions] Request 1ab842a1-7aed-4258-9dbd-9ebe02d8e2f0 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 715.3078000023961ms
+2025-07-22 16:55:16.118 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:55:51.773 [info] [fetchCompletions] Request 6ba2b17b-8b89-4d76-b514-42b0810aaa59 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 471.7877239994705ms
+2025-07-22 16:55:51.856 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:55:55.169 [info] [fetchCompletions] Request 365d42bf-5f2f-4159-8248-25900c22c598 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 814.6537859998643ms
+2025-07-22 16:55:55.199 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:55:55.798 [info] [fetchCompletions] Request ebb5c97b-1832-440d-a930-7745b2454bb0 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 430.75874400138855ms
+2025-07-22 16:55:56.006 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:55:56.267 [info] [fetchCompletions] Request 1e0916e5-25ef-4a08-8e4c-cfd7b4d298de at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 657.1901099979877ms
+2025-07-22 16:55:56.305 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 16:55:56.336 [info] [streamChoices] solution 2 returned. finish reason: [stop]
+2025-07-22 16:55:56.358 [info] [streamChoices] solution 1 returned. finish reason: [stop]
+2025-07-22 17:04:22.125 [info] [fetchCompletions] Request 7d1e1a74-6012-481f-baca-b473d21d9e67 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 1136.3261209987104ms
+2025-07-22 17:04:22.521 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 17:11:33.953 [info] [fetchCompletions] Request 3126f31a-62bb-465e-9cd3-85b26e8150f4 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 1616.3737499974668ms
+2025-07-22 17:11:34.012 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 17:11:34.151 [info] [fetchCompletions] Request c4411e55-1744-4864-b04b-11488f2a3dec at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 502.23143700137734ms
+2025-07-22 17:11:34.162 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 17:11:34.583 [info] [fetchCompletions] Request 070c64dc-43a9-49a2-a548-c13fc403076b at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 407.3192030005157ms
+2025-07-22 17:11:34.657 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 17:11:34.673 [info] [ghostText] Filtered out solution matching next line
+2025-07-22 17:11:35.604 [info] [fetchCompletions] Request 7b1e1d11-638b-473a-95f6-bce870606dbc at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 394.9342889972031ms
+2025-07-22 17:11:35.649 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 17:11:36.198 [info] [fetchCompletions] Request 50916da4-633f-451f-9f43-9e4a039bd344 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 416.7955990023911ms
+2025-07-22 17:11:36.256 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 17:11:36.273 [info] [ghostText] Filtered out solution matching next line
+2025-07-22 17:11:37.381 [info] [ghostText] Filtered out solution matching next line
+2025-07-22 17:13:14.664 [info] [fetchCompletions] Request ef23c341-abaa-44e6-9dd4-0429512a4c01 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 385.17382699996233ms
+2025-07-22 17:13:14.749 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 17:13:15.457 [info] [fetchCompletions] Request 7600ad04-fde5-4915-9f93-b60421503b2a at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 551.9092210009694ms
+2025-07-22 17:13:15.523 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 17:13:15.592 [info] [ghostText] Filtered out solution matching next line
+2025-07-22 17:13:17.557 [info] [fetchCompletions] Request 8c1a4c0a-46ce-4b78-b6a6-17446bdfcac6 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 589.1138270013034ms
+2025-07-22 17:13:17.598 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 17:13:17.799 [info] [fetchCompletions] Request 2e2d42b5-d16c-483f-bc2b-9346a50bb5ed at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 318.1682570017874ms
+2025-07-22 17:13:17.854 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 17:13:18.216 [info] [fetchCompletions] Request cabad71b-f0c9-47a3-8e12-2c7f86f54fe9 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 339.8099990002811ms
+2025-07-22 17:13:18.274 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 17:13:18.302 [info] [ghostText] Filtered out solution matching next line
+2025-07-22 17:14:12.747 [info] [fetchCompletions] Request 25687635-7093-451d-b5e8-4131da41fa0e at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 510.6261800006032ms
+2025-07-22 17:14:12.820 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 17:14:13.182 [info] [ghostText] Filtered out solution matching next line
+2025-07-22 17:14:13.378 [info] [fetchCompletions] Request 105fbf89-5645-4b50-ba63-658b2f89566e at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 404.35834200307727ms
+2025-07-22 17:14:13.441 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 17:14:13.479 [info] [ghostText] Filtered out solution matching next line
+2025-07-22 17:15:21.287 [info] [fetchCompletions] Request 0ca0918e-1a40-443c-8903-28afa8955995 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 412.5265009999275ms
+2025-07-22 17:15:21.775 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 17:15:22.402 [info] [fetchCompletions] Request a21bf6ad-edb3-455a-b52a-7aae26d6648e at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 515.710858002305ms
+2025-07-22 17:15:22.908 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-07-22 17:15:25.988 [info] [fetchCompletions] Request b8f28e93-f28b-4ffa-9298-68994c6c9aa4 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 355.6964170001447ms
+2025-07-22 17:15:26.102 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-07-22 17:15:29.068 [info] [fetchCompletions] Request 7463ef17-7da3-4440-9ec6-0a1adb662c00 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 453.0682319998741ms
+2025-07-22 17:15:29.082 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 17:15:29.094 [info] [ghostText] Filtered out solution matching next line
+2025-07-22 17:15:30.690 [info] [ghostText] Filtered out solution matching next line
+2025-07-22 17:16:08.467 [info] [fetchCompletions] Request dd6e4cbd-11be-4fa6-8715-2f259caf7fa9 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 343.08224499970675ms
+2025-07-22 17:16:08.531 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 17:16:08.550 [info] [ghostText] Filtered out solution matching next line
+2025-07-22 17:16:10.282 [info] [fetchCompletions] Request ae7b797a-90e6-4ae2-8036-f0821b0ddce7 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 448.32493099942803ms
+2025-07-22 17:16:11.187 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 17:16:11.747 [info] [fetchCompletions] Request 1eb5b1ea-cdd0-4bd1-b57b-50c8898e242d at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 386.51322500035167ms
+2025-07-22 17:16:11.793 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 17:16:11.828 [info] [ghostText] Filtered out solution matching next line
+2025-07-22 17:16:40.826 [info] [fetchCompletions] Request 8814ea49-595d-4c46-b269-3da5e351f3fa at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 362.1202799975872ms
+2025-07-22 17:16:41.308 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 17:16:42.131 [info] [fetchCompletions] Request ab443747-d3ac-4cc8-a2ef-61a753c1eb75 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions> finished with 200 status after 627.9506700001657ms
+2025-07-22 17:16:42.223 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-07-22 17:16:42.273 [info] [ghostText] Filtered out solution matching next line
+2025-07-22 17:16:58.726 [info] [ghostText] Filtered out solution matching next line

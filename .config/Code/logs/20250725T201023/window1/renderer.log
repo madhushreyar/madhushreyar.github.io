@@ -1,0 +1,24 @@
+2025-07-25 20:10:30.353 [warning] Creation of workbench contribution 'workbench.contrib.preferencesActions' took 27ms.
+2025-07-25 20:10:30.414 [warning] Creation of workbench contribution 'workbench.contrib.explorerViewletViews' took 21ms.
+2025-07-25 20:10:30.512 [warning] Creation of workbench contribution 'workbench.contrib.chatSetup' took 27ms.
+2025-07-25 20:10:30.595 [warning] Creation of workbench contribution 'workbench.contrib.updateExperimentalSettingsDefaults' took 38ms.
+2025-07-25 20:10:33.203 [info] Started local extension host with pid 4404.
+2025-07-25 20:10:33.850 [info] ComputeTargetPlatform: linux-x64
+2025-07-25 20:10:57.004 [info] Extension host (LocalProcess pid: 4404) is unresponsive.
+2025-07-25 20:10:57.022 [info] Extension host (LocalProcess pid: 4404) is responsive.
+2025-07-25 20:11:08.821 [warning] Creation of workbench contribution 'chat.edits.editorOverlay' took 104ms.
+2025-07-25 20:11:09.161 [info] Extension host (LocalProcess pid: 4404) is unresponsive.
+2025-07-25 20:11:11.504 [warning] Creation of workbench contribution 'chat.simpleBrowser.overlay' took 101ms.
+2025-07-25 20:11:25.275 [info] Extension host (LocalProcess pid: 4404) is responsive.
+2025-07-25 20:11:26.881 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-07-25 20:11:31.602 [error] An unknown error occurred. Please consult the log for more details.
+2025-07-25 20:11:38.672 [info] Extension host (LocalProcess pid: 4404) is unresponsive.
+2025-07-25 20:11:39.383 [warning] Creation of workbench contribution 'workbench.contrib.dynamicWindowConfiguration' took 103ms.
+2025-07-25 20:11:41.258 [info] Extension host (LocalProcess pid: 4404) is responsive.
+2025-07-25 20:11:46.428 [error] An unknown error occurred. Please consult the log for more details.
+2025-07-25 20:11:47.464 [info] [perf] Render performance baseline is 480ms
+2025-07-25 20:12:01.671 [info] Extension host (LocalProcess pid: 4404) is unresponsive.
+2025-07-25 20:12:04.645 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-07-25 20:12:07.483 [info] Extension host (LocalProcess pid: 4404) is responsive.
+2025-07-25 20:12:07.494 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-07-25 20:12:09.320 [warning] UNRESPONSIVE extension host: 'github.copilot' took 95.70415242883357% of 2736.621ms, saved PROFILE here: 'file:///tmp/exthost-6c9267.cpuprofile'

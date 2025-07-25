@@ -1,0 +1,10 @@
+2025-07-22 09:48:04.935 [info] ComputeTargetPlatform: linux-x64
+2025-07-22 09:48:11.352 [info] ComputeTargetPlatform: linux-x64
+2025-07-22 09:48:20.466 [info] Getting Manifest... github.copilot
+2025-07-22 09:48:20.868 [info] Installing extension: github.copilot {"productVersion":{"version":"1.100.2","date":"2025-05-14T21:47:40.416Z"},"pinned":false,"operation":3,"isApplicationScoped":true,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/ramijaebr/.vscode/extensions/extensions.json","path":"/home/ramijaebr/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-07-22 09:48:24.868 [info] Getting Manifest... github.copilot-chat
+2025-07-22 09:48:53.235 [info] Extension signature verification result for github.copilot: Success. Internal Code: 0. Executed: true. Duration: 15660ms.
+2025-07-22 09:49:04.257 [info] Extracted extension to file:///home/ramijaebr/.vscode/extensions/github.copilot-1.346.0: github.copilot
+2025-07-22 09:49:04.401 [info] Renamed to /home/ramijaebr/.vscode/extensions/github.copilot-1.346.0
+2025-07-22 09:49:04.575 [info] Marked extension as removed github.copilot-1.344.0
+2025-07-22 09:49:04.645 [info] Extension installed successfully: github.copilot vscode-userdata:/home/ramijaebr/.vscode/extensions/extensions.json

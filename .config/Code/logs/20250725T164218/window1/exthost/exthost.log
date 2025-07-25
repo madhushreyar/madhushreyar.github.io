@@ -1,0 +1,229 @@
+2025-07-25 16:42:56.571 [info] Extension host with pid 449 started
+2025-07-25 16:42:56.572 [info] Skipping acquiring lock for /home/ramijaebr/.config/Code/User/workspaceStorage/bdae0965c85b1cb127aa7772ca5b310f.
+2025-07-25 16:43:01.013 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-07-25 16:43:01.962 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-07-25 16:43:02.354 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2025-07-25 16:43:03.265 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2025-07-25 16:43:05.139 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2025-07-25 16:43:06.425 [info] ExtensionService#_doActivateExtension ms-vscode.live-server, startup: false, activationEvent: 'onWebviewPanel:browserPreview'
+2025-07-25 16:43:08.574 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-07-25 16:43:13.335 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-07-25 16:43:14.038 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-07-25 16:43:17.288 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-07-25 16:43:29.088 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-07-25 16:43:38.177 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-07-25 16:43:39.184 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-07-25 16:43:44.950 [info] Eager extensions activated
+2025-07-25 16:43:51.857 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 16:43:51.857 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 16:43:51.857 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 16:43:51.857 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 16:43:51.857 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 16:43:51.857 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 16:43:51.858 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 16:43:51.858 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 16:43:51.864 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 16:43:51.865 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 16:43:51.865 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 16:43:51.865 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 16:43:51.865 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 16:43:51.865 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 16:43:51.865 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 16:43:51.869 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 16:43:51.871 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 16:43:51.871 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 16:43:51.871 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 16:43:51.871 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 16:43:51.871 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 16:43:51.871 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 16:43:51.871 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 16:43:51.872 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 16:43:51.872 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 16:43:51.873 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 16:43:52.113 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 16:43:53.495 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 16:43:53.523 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 16:43:53.534 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 16:43:53.545 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 16:43:53.555 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 16:43:53.561 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 16:43:53.574 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 16:43:53.584 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 16:43:53.596 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 16:43:53.622 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 16:43:53.633 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 16:43:53.642 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 16:43:53.649 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 16:43:53.657 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 16:43:53.669 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 16:43:53.676 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 16:43:53.685 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 16:43:53.689 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 16:43:53.694 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 16:43:53.698 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 16:43:53.705 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 16:43:53.710 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 16:43:53.714 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 16:43:53.721 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 16:43:53.725 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 16:43:53.732 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:601075)
+    at ChildProcess.emit (node:events:536:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-25 16:43:55.200 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1105
+2025-07-25 16:43:59.533 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1106
+2025-07-25 17:10:51.359 [info] Extension host terminating: renderer closed the MessagePort
+2025-07-25 17:10:52.504 [info] Extension host with pid 449 exiting with code 0

@@ -1,0 +1,15 @@
+2025-07-22 09:47:53.096 [info] update#setState idle
+2025-07-22 09:48:22.476 [info] update#setState checking for updates
+2025-07-22 09:48:22.726 [info] update#setState available for download
+2025-07-22 09:49:36.851 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-22 09:49:52.249 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-22 09:53:03.684 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-22 16:11:18.072 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-22 16:11:36.335 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-22 16:12:39.774 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-22 16:13:13.675 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-22 16:45:23.084 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-22 17:14:10.366 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-22 17:16:43.965 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-22 17:17:59.505 [info] Extension host with pid 432 exited with code: 0, signal: unknown.
+2025-07-22 17:18:01.692 [error] Extension host with pid 432 still exists, forcefully killing it...

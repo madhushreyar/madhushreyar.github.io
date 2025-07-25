@@ -1,0 +1,114 @@
+2025-07-25 16:42:29.271 [warning] Creation of workbench contribution 'workbench.contrib.preferencesActions' took 27ms.
+2025-07-25 16:42:29.405 [warning] Creation of workbench contribution 'workbench.contrib.chatSetup' took 22ms.
+2025-07-25 16:42:29.470 [warning] Creation of workbench contribution 'workbench.contrib.updateExperimentalSettingsDefaults' took 21ms.
+2025-07-25 16:42:34.109 [info] Started local extension host with pid 449.
+2025-07-25 16:42:36.994 [info] ComputeTargetPlatform: linux-x64
+2025-07-25 16:42:55.533 [error] [File Watcher] Unexpected error: inotify_add_watch on '/home/ramijaebr/.config/Code/logs/20250720T065610/window1' failed: No such file or directory (EUNKNOWN) (path: /home/ramijaebr)
+2025-07-25 16:42:57.645 [error] [File Watcher (universal)] inotify_add_watch on '/home/ramijaebr/.config/Code/logs/20250720T065610/window1' failed: No such file or directory
+2025-07-25 16:43:06.626 [info] Extension host (LocalProcess pid: 449) is unresponsive.
+2025-07-25 16:43:08.760 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-07-25 16:43:09.014 [info] Extension host (LocalProcess pid: 449) is responsive.
+2025-07-25 16:43:16.728 [info] Extension host (LocalProcess pid: 449) is unresponsive.
+2025-07-25 16:43:17.814 [warning] Creation of workbench contribution 'workbench.contrib.configurationMigration' took 115ms.
+2025-07-25 16:43:18.786 [warning] Creation of workbench contribution 'workbench.contrib.dynamicWindowConfiguration' took 809ms.
+2025-07-25 16:43:28.575 [info] [perf] Render performance baseline is 657ms
+2025-07-25 16:43:39.747 [info] Extension host (LocalProcess pid: 449) is responsive.
+2025-07-25 16:43:53.526 [error] An unknown error occurred. Please consult the log for more details.
+2025-07-25 16:44:04.414 [info] Extension host (LocalProcess pid: 449) is unresponsive.
+2025-07-25 16:44:06.850 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-07-25 16:44:10.994 [info] Extension host (LocalProcess pid: 449) is responsive.
+2025-07-25 16:44:11.009 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-07-25 16:44:12.269 [warning] UNRESPONSIVE extension host: 'github.copilot' took 83.0110455425011% of 3455.104ms, saved PROFILE here: 'file:///tmp/exthost-1cc207.cpuprofile'
+2025-07-25 16:48:53.262 [error] Cannot read properties of undefined (reading 'map'): TypeError: Cannot read properties of undefined (reading 'map')
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:456:40572
+    at ev._computeFn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:16409)
+    at ev.w (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:25879)
+    at ev.get (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:25611)
+    at ev.readObservable (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:27315)
+    at ev.read (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:16025)
+    at c (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:32:10350)
+    at ev._computeFn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:32:10505)
+    at ev.w (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:25879)
+    at ev.get (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:25611)
+2025-07-25 16:48:53.437 [error] Make sure the ref is set before accessing the element. Maybe wrong initialization order?: Error: Make sure the ref is set before accessing the element. Maybe wrong initialization order?
+    at Function.get (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:32:9397)
+    at Wne.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:456:42214)
+    at Ng.B (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2392)
+    at Ng.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2462)
+    at Ng.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2680)
+    at Ng.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:276:20080)
+    at s.onMouseMove (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:276:17933)
+    at JSi.emitMouseMove (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:73:17712)
+    at V5i.emitMouseMove (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:73:7788)
+    at O5i.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:70:46369)
+2025-07-25 16:48:55.356 [error] Make sure the ref is set before accessing the element. Maybe wrong initialization order?: Error: Make sure the ref is set before accessing the element. Maybe wrong initialization order?
+    at Function.get (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:32:9397)
+    at Wne.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:456:42214)
+    at Ng.B (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2392)
+    at Ng.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2462)
+    at Ng.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2680)
+    at Ng.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:276:20080)
+    at s.onMouseMove (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:276:17933)
+    at JSi.emitMouseMove (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:73:17712)
+    at V5i.emitMouseMove (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:73:7788)
+    at O5i.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:70:46369)
+2025-07-25 16:51:52.788 [error] [Extension Host] Error: Unexpected SIGPIPE
+    at process.<anonymous> (file:///usr/share/code/resources/app/out/bootstrap-fork.js:3:11860)
+    at process.emit (node:events:524:28)
+2025-07-25 17:07:29.661 [error] [Extension Host] [AsyncCompletionManager] [153ba984-08e0-405b-8e6c-2ac2f8d5af5b] Request errored with AbortError: The operation was aborted.
+    at EventTarget.abortHandler (/home/ramijaebr/.vscode/extensions/github.copilot-1.346.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:106:17)
+    at EventTarget.[nodejs.internal.kHybridDispatch] (node:internal/event_target:831:20)
+    at EventTarget.dispatchEvent (node:internal/event_target:766:26)
+    at abortSignal (node:internal/abort_controller:370:10)
+    at AbortController.abort (node:internal/abort_controller:392:5)
+    at /home/ramijaebr/.vscode/extensions/github.copilot-1.346.0/lib/src/networking.ts:237:19
+    at Dse.invoke (/home/ramijaebr/.vscode/extensions/github.copilot-1.346.0/node_modules/vscode-jsonrpc/lib/common/events.js:55:39)
+    at t.fire (/home/ramijaebr/.vscode/extensions/github.copilot-1.346.0/node_modules/vscode-jsonrpc/lib/common/events.js:117:36)
+    at OU.cancel (/home/ramijaebr/.vscode/extensions/github.copilot-1.346.0/node_modules/vscode-jsonrpc/lib/common/cancellation.js:41:31)
+    at Tse.cancel (/home/ramijaebr/.vscode/extensions/github.copilot-1.346.0/node_modules/vscode-jsonrpc/lib/common/cancellation.js:82:25)
+    at Wc.cancelRequest (/home/ramijaebr/.vscode/extensions/github.copilot-1.346.0/lib/src/ghostText/asyncCompletions.ts:257:41)
+    at Wc.getFirstMatchingRequest (/home/ramijaebr/.vscode/extensions/github.copilot-1.346.0/lib/src/ghostText/asyncCompletions.ts:234:22)
+    at /home/ramijaebr/.vscode/extensions/github.copilot-1.346.0/lib/src/ghostText/ghostText.ts:948:22
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at processTimers (node:internal/timers:516:9) {
+  type: 'aborted',
+  _name: 'AbortError'
+}
+2025-07-25 17:10:02.700 [error] [Extension Host] [AsyncCompletionManager] [7c93f190-c05f-4995-930e-c20678cc1898] Request errored with AbortError: The operation was aborted.
+    at EventTarget.abortHandler (/home/ramijaebr/.vscode/extensions/github.copilot-1.346.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:106:17)
+    at EventTarget.[nodejs.internal.kHybridDispatch] (node:internal/event_target:831:20)
+    at EventTarget.dispatchEvent (node:internal/event_target:766:26)
+    at abortSignal (node:internal/abort_controller:370:10)
+    at AbortController.abort (node:internal/abort_controller:392:5)
+    at /home/ramijaebr/.vscode/extensions/github.copilot-1.346.0/lib/src/networking.ts:237:19
+    at Dse.invoke (/home/ramijaebr/.vscode/extensions/github.copilot-1.346.0/node_modules/vscode-jsonrpc/lib/common/events.js:55:39)
+    at t.fire (/home/ramijaebr/.vscode/extensions/github.copilot-1.346.0/node_modules/vscode-jsonrpc/lib/common/events.js:117:36)
+    at OU.cancel (/home/ramijaebr/.vscode/extensions/github.copilot-1.346.0/node_modules/vscode-jsonrpc/lib/common/cancellation.js:41:31)
+    at Tse.cancel (/home/ramijaebr/.vscode/extensions/github.copilot-1.346.0/node_modules/vscode-jsonrpc/lib/common/cancellation.js:82:25)
+    at Wc.cancelRequest (/home/ramijaebr/.vscode/extensions/github.copilot-1.346.0/lib/src/ghostText/asyncCompletions.ts:257:41)
+    at Wc.getFirstMatchingRequest (/home/ramijaebr/.vscode/extensions/github.copilot-1.346.0/lib/src/ghostText/asyncCompletions.ts:234:22)
+    at /home/ramijaebr/.vscode/extensions/github.copilot-1.346.0/lib/src/ghostText/ghostText.ts:948:22
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at processTimers (node:internal/timers:516:9) {
+  type: 'aborted',
+  _name: 'AbortError'
+}
+2025-07-25 17:10:03.531 [error] [Extension Host] [AsyncCompletionManager] [a5eea147-545c-4907-b90f-743f43111387] Request errored with AbortError: The operation was aborted.
+    at EventTarget.abortHandler (/home/ramijaebr/.vscode/extensions/github.copilot-1.346.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:106:17)
+    at EventTarget.[nodejs.internal.kHybridDispatch] (node:internal/event_target:831:20)
+    at EventTarget.dispatchEvent (node:internal/event_target:766:26)
+    at abortSignal (node:internal/abort_controller:370:10)
+    at AbortController.abort (node:internal/abort_controller:392:5)
+    at /home/ramijaebr/.vscode/extensions/github.copilot-1.346.0/lib/src/networking.ts:237:19
+    at Dse.invoke (/home/ramijaebr/.vscode/extensions/github.copilot-1.346.0/node_modules/vscode-jsonrpc/lib/common/events.js:55:39)
+    at t.fire (/home/ramijaebr/.vscode/extensions/github.copilot-1.346.0/node_modules/vscode-jsonrpc/lib/common/events.js:117:36)
+    at OU.cancel (/home/ramijaebr/.vscode/extensions/github.copilot-1.346.0/node_modules/vscode-jsonrpc/lib/common/cancellation.js:41:31)
+    at Tse.cancel (/home/ramijaebr/.vscode/extensions/github.copilot-1.346.0/node_modules/vscode-jsonrpc/lib/common/cancellation.js:82:25)
+    at Wc.cancelRequest (/home/ramijaebr/.vscode/extensions/github.copilot-1.346.0/lib/src/ghostText/asyncCompletions.ts:257:41)
+    at Wc.getFirstMatchingRequest (/home/ramijaebr/.vscode/extensions/github.copilot-1.346.0/lib/src/ghostText/asyncCompletions.ts:234:22)
+    at /home/ramijaebr/.vscode/extensions/github.copilot-1.346.0/lib/src/ghostText/ghostText.ts:948:22
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at processTimers (node:internal/timers:516:9) {
+  type: 'aborted',
+  _name: 'AbortError'
+}

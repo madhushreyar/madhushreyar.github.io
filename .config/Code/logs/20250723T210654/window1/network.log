@@ -1,0 +1,3 @@
+2025-07-23 21:07:35.824 [error] #1: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/github/copilot/latest - error GET Fetch timeout: 10000ms
+2025-07-23 21:07:35.825 [error] #2: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/github/copilot-chat/latest - error GET Fetch timeout: 10000ms
+2025-07-23 21:07:35.825 [error] #3: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-vscode/live-server/latest - error GET Fetch timeout: 10000ms

@@ -1,0 +1,8 @@
+2025-07-25 16:42:20.637 [info] update#setState idle
+2025-07-25 16:42:50.551 [info] update#setState checking for updates
+2025-07-25 16:42:53.353 [info] update#setState available for download
+2025-07-25 17:03:56.741 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-25 17:07:37.451 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-25 17:10:03.911 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-07-25 17:10:52.520 [info] Extension host with pid 449 exited with code: 0, signal: unknown.
+2025-07-25 17:10:53.818 [error] Extension host with pid 449 still exists, forcefully killing it...
